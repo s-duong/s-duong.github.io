@@ -2,7 +2,7 @@ name: "My new website"
 output_dir: 'docs'
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
     highlight: zenburn
     toc: true
     toc_depth: 2

@@ -1,8 +1,8 @@
 name: "My new website"
 output_dir: 'docs'
 output:
-  html_document:
-    css: bootstrap.min.css
+  rmarkdown::html_document:
+  theme: flatly
     toc: true
     toc_depth: 2
     toc_float:

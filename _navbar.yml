@@ -7,6 +7,7 @@ left:
       - text: "Random art"
         href: art.html
   - text: "Projects"
+    href: projects.html
   - text: "CV/Resume"
     href: experience.html
 right:

@@ -1,7 +1,7 @@
 name: "personal-website"
 navbar:
   title: "personal website"
-  type: inverse
+  #type: inverse
   left:
     - text: "Home"
       href: index.html

@@ -1,8 +1,8 @@
 name: "personal website"
-title: "random title"
+title: "NAME"
 type: inverse
 left:
-  - text: "About me"
+  - text: "PAGE WITH MENU"
     menu:
       - text: "Random art"
         href: art.html

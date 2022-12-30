@@ -3,7 +3,3 @@ output_dir: 'docs'
 output:
   rmarkdown::html_document:
     theme: flatly
-    toc: true
-    toc_depth: 2
-    toc_float:
-      collapsed: false

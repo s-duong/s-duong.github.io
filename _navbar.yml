@@ -1,15 +1,13 @@
 name: "personal website"
-title: "NAME"
+title: "Shirley Duong"
 type: inverse
 left:
-  - text: "PAGE WITH MENU"
-    menu:
-      - text: "Random art"
-        href: art.html
+  - text: "Experience"
+    href: experience.html
   - text: "Projects"
     href: projects.html
-  - text: "CV/Resume"
-    href: experience.html
+  - text: "Art"
+    href: art.html
 right:
-  - text: "Text on the right"
+  - text: "Last updated: January 2023"
 

@@ -1,0 +1,6 @@
+---
+title: "credits"
+---
+
+credits page! packages used for the aesthetics /anything of the website
+pic credits...

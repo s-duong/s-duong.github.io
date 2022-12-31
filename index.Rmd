@@ -1,7 +1,27 @@
 ---
-title: "index"
-author: "Shirley Duong"
-date: "2022-12-30"
+title: "Hello!"
 ---
 
-home page.
+```{r, echo=FALSE}
+# full directory: ~/Users/shirleyduong/Desktop/s-duong.github.io/
+htmltools::img(src = knitr::image_uri(file.path("Headshot_Dec2022.jpeg")), # file
+               alt = "headshot", 
+               style = "position:absolute; top:0; right:0; padding:10px;" # css
+               )
+```
+
+## I am a...
+
+* **Data analyst** at [Trying Together](https://tryingtogether.org/), a non-profit organization supporting the work of early childcare and education.
+* **PhD candidate** in Cognitive Psychology at the University of Pittsburgh working with [Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530). My research focuses on:
+    + Links between children's **early math** experiences in the **home learning environment (HLE)** and the development of their math skills.
+    + Applying **new methods** (i.e., behavioral coding and statistical modeling) to **measuring the HLE**, particularly **interactions** between children and their caregivers.
+* [Pie artist](https://s-duong.github.io/art.html)! :)
+
+## Prior to graduate school...
+
+* I managed Lab for Early Social Cognition at the University of Maryland, College Park, under Jonathan Beier.
+* I worked as a research assistant at the [Social Cognitive Development Lab](http://www.socialcogdev.com/) directed by Yarrow Dunham at Yale University and under the mentorship of Richard Ahl.
+* I worked as a research assistant in the Math Department at the University of New Haven with [Yasanthi Kottegoda](https://www.newhaven.edu/faculty-staff-profiles/yasanthi-kottegoda.php) and [Ramesh Sharma](https://www.newhaven.edu/faculty-staff-profiles/ramesh-sharma.php).
+* See more of my experiences [here](https://s-duong.github.io/experience.html)!
+

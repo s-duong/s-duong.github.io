@@ -3,7 +3,7 @@ title: "Hello!"
 ---
 <div class="column-left">
 
-```{r, eval=FALSE}
+```{r, echo=FALSE, eval=FALSE}
 # NOT BEING EVALUATED RIGHT NOW!!!!
 # would like this to be static and placed somewhere on the page while the margins of this page are narrower...
 # full directory: ~/Users/shirleyduong/Desktop/s-duong.github.io/
@@ -25,11 +25,14 @@ htmltools::img(src = knitr::image_uri(file.path("headshot_dec22.png")), # file
 
 ## I am a...
 
--   📊📈 **Data analyst** at [Trying Together](https://tryingtogether.org/), a non-profit organization supporting the work of early childcare and education.
--   💻📚 **PhD candidate** in Cognitive Psychology at the University of Pittsburgh working with [Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530). My research focuses on:
-    -   Links between children's **early math** experiences in the **home learning environment (HLE)** and the development of their math skills.
-    -   Applying **new methods** (i.e., behavioral coding and statistical modeling) to measuring the HLE, particularly **interactions** between children and their caregivers.
--   🥧🖼 [Pie artist](https://s-duong.github.io/art.html)! :)
+📊📈 **Data analyst** at [Trying Together](https://tryingtogether.org/), a non-profit organization supporting the work of early childcare and education.  
+
+💻📚 **PhD candidate** in Cognitive Psychology at the University of Pittsburgh working with [Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530). My research focuses on:
+
+-   Links between children's **early math** experiences in the **home learning environment (HLE)** and the development of their math skills.
+-   Applying **new methods** (i.e., behavioral coding and statistical modeling) to measuring the HLE, particularly **interactions** between children and their caregivers.  
+
+🥧🖼 [Pie artist](https://s-duong.github.io/art.html)! :)
 
 ## Prior to graduate school, I...
 

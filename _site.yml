@@ -1,6 +1,5 @@
 name: "My new website"
 output_dir: 'docs'
 output:
-  rmarkdown::html_document:
-    theme: flatly
-    css: styles.css
+  prettydoc::html_pretty:
+    theme: leonids

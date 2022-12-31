@@ -2,6 +2,8 @@ name: "personal website"
 title: "Shirley Duong"
 type: inverse
 left:
+  - text: "About"
+    href: index.html
   - text: "Experience"
     href: experience.html
   - text: "Projects"

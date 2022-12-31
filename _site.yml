@@ -1,5 +1,7 @@
 name: "My new website"
 output_dir: 'docs'
+navbar: 
 output:
   prettydoc::html_pretty:
     theme: leonids
+    highlight: github

@@ -4,3 +4,4 @@ title: "credits"
 
 credits page! packages used for the aesthetics /anything of the website
 pic credits...
+icons https://www.iconpacks.net/free-icon/mail-2569.html

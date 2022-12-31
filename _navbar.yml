@@ -8,6 +8,6 @@ left:
     href: projects.html
   - text: "Art"
     href: art.html
-right:
-  - text: "Last updated: January 2023"
+  - icon: fa-envelope fa-lg
+    href: mailto:shirleyduong5@gmail.com
 

@@ -1,8 +1,10 @@
 ---
 title: "Hello!"
 ---
+<div class="column-left">
 
-```{r, echo=FALSE}
+```{r, eval=FALSE}
+# NOT BEING EVALUATED RIGHT NOW!!!!
 # would like this to be static and placed somewhere on the page while the margins of this page are narrower...
 # full directory: ~/Users/shirleyduong/Desktop/s-duong.github.io/
 htmltools::img(src = knitr::image_uri(file.path("headshot_dec22.png")), # file
@@ -37,4 +39,4 @@ htmltools::img(src = knitr::image_uri(file.path("headshot_dec22.png")), # file
 -   See more of my experiences [here](https://s-duong.github.io/experience.html)!
 
 
-
+</div>

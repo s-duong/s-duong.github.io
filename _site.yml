@@ -3,3 +3,4 @@ output_dir: 'docs'
 output:
   rmarkdown::html_document:
     theme: flatly
+    css: styles.css

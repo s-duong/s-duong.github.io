@@ -6,7 +6,8 @@ title: "Hello!"
 # full directory: ~/Users/shirleyduong/Desktop/s-duong.github.io/
 htmltools::img(src = knitr::image_uri(file.path("Headshot_Dec2022.jpeg")), # file
                alt = "headshot", 
-               style = "position:absolute; top:0; right:0; padding:10px;" # css
+               style = "float: right;"
+               #style = "position:absolute; top:0; right:0; padding:10px;" # css
                )
 ```
 

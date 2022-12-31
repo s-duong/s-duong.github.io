@@ -14,16 +14,6 @@ htmltools::img(src = knitr::image_uri(file.path("headshot_dec22.png")), # file
                )
 ```
 
-<html>
-<head>
-<style>
-div {
-  margin: 100px;
-}
-</style>
-</head>
-<body>
-
 
 ## Connect
 
@@ -47,8 +37,4 @@ div {
 -   See more of my experiences [here](https://s-duong.github.io/experience.html)!
 
 
-
-
-</body>
-</html>
 

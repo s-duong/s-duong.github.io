@@ -1,7 +1,8 @@
 name: "shirley's personal website"
 output_dir: 'docs'
 navbar: 
-output:
-  prettydoc::html_pretty:
-    theme: leonids
-    highlight: github
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: true # adds a table of contents

@@ -1,0 +1,25 @@
+name: "personal website"
+title: S. Duong
+type: 
+left:
+  - text: "About"
+    href: about.html
+  - text: "Experience"
+    href: experience.html
+  - text: "Projects"
+    href: projects.html
+  - text: "Publications"
+    href: publications.html
+  - text: "Art"
+    href: art.html
+right:
+  - icon: fa-solid fa-envelope
+    href: mailto:shirleyduong5@gmail.com
+  - icon: fa-brands fa-linkedin
+    href: https://www.linkedin.com/in/duongshirley/
+  - icon: fa fa-github
+    href: https://github.com/s-duong
+  - icon: fa-brands fa-researchgate
+    href: https://www.researchgate.net/profile/Shirley-Duong
+  - icon: fa-brands fa-square-twitter
+    href: https://twitter.com/ShirleyDoesMath

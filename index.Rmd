@@ -1,30 +1,44 @@
 ---
-title: <a href=index.html style="color:#f47484;"><img src="headshot_dec22.png"><br>Shirley Duong</a>
-toc: <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script>
-subtitle: <a href="https://www.linkedin.com/in/duongshirley/" style="color:#8c7edc;"><i class="fa-brands fa-linkedin" style="font-size:36px"></i></a> <a href="https://github.com/s-duong" style="color:#8c7edc;"><i class="fa fa-github" style="font-size:36px"></i></a> <a href="https://www.researchgate.net/profile/Shirley-Duong" style="color:#8c7edc;"><i class="fa-brands fa-researchgate" style="font-size:36px"></i></a> <a href="https://twitter.com/ShirleyDoesMath" style="color:#8c7edc;"><i class="fa-brands fa-square-twitter" style="font-size:36px"></i></a>
-author: <b>Data</b> enthusiast, early learning <b>researcher</b>, amateur pie <b>artist</b>
-date: <a href=about.html>About Me</a><br><a href=experience.html>Experience</a><br><a href=projects.html>Projects</a><br><a href=publications.html>Publications</a><br><a href=art.html>Pie Art</a><br><a href=credits.html>Credits</a>
+title: Hi, there! 👋🏼 
+output: html_document
 ---
 
-<p style="text-align:center">
-CATCHY HEADLINE :)
+```{css, echo=FALSE}
+/* use em units to allow viewers to resize the text; 1 em = 16 px */
+.intro {
+  font-size: 3.25em;
+}
+```
+
+<!-- for accessing the link icons --> 
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
+
+
+<body>
+<img src="headshot_dec22_rectangleresized.jpeg" align="right" hspace="50" vspace="20"></img>
+
+<!-- <img src="headshot_dec22.png" align="right" hspace="50"> -->
+
+<br>
+
+<p class="intro"> 
+
+I'm **Shirley Duong**, a <font color = "#8c7edc">data</font> enthusiast, early learning <font color = "#8c7edc">researcher</font>, and hobby <font color = "#8c7edc">artist</font>.
 </p>
 
+<br>
+
+</body>
+
+Currently, I am a...
+
+- 📊📈 <b>Data analyst</b> at <a href=https://tryingtogether.org/>Trying Together</a>, a non-profit supporting the work of early childcare and education.
+
+- 💻📚 <b>PhD candidate</b> in <font color = "#8c7edc">**Cognitive Psychology**</font> working with <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa Libertus</a> at the University of Pittsburgh.
+
+<br><br>
 
 
-```{r unused code, include=FALSE, eval=FALSE}
-# unused YAML line
-# author: <b>Data</b> enthusiast, early learning <b>researcher</b>, amateur pie <b>artist</b>
-
-# html color code for subtitle text: #8c7edc
-
-# code for including a floating image in on a page
-# full directory: ~/Users/shirleyduong/Desktop/s-duong.github.io/
-htmltools::img(src = knitr::image_uri(file.path("headshot_dec22.png")), # file
-               alt = "headshot", 
-               # max-width and height allow for responsive resizing
-               #style = "float: right; max-width: 100%; height: auto" # css
-               #style = "position:absolute; top:0; right:0; padding:10px;" # css
-               style = "position:absolute; padding:10px;" # css
-               )
-```
+<!-- <p class="links">  -->
+<!-- Let's connect <a href="mailto:shirleyduong5@gmail.com"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.linkedin.com/in/duongshirley/"><i class="fa-brands fa-linkedin"></i></a> <a href="https://github.com/s-duong"><i class="fa fa-github"></i></a> <a href="https://www.researchgate.net/profile/Shirley-Duong"><i class="fa-brands fa-researchgate"></i></a> <a href="https://twitter.com/ShirleyDoesMath"><i class="fa-brands fa-square-twitter"></i></a> -->
+<!-- </p> -->

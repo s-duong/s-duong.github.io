@@ -4,12 +4,16 @@ title: "Hello!"
 
 ```{r, echo=FALSE}
 # full directory: ~/Users/shirleyduong/Desktop/s-duong.github.io/
-htmltools::img(src = knitr::image_uri(file.path("Headshot_Dec2022.jpeg")), # file
+htmltools::img(src = knitr::image_uri(file.path("headshot_dec22.png")), # file
                alt = "headshot", 
-               style = "float: right;"
+               # max-width and height allow for responsive resizing
+               style = "float: right; max-width: 100%; height: auto" # css
                #style = "position:absolute; top:0; right:0; padding:10px;" # css
                )
 ```
+
+## Connect
+
 
 ## I am a...
 

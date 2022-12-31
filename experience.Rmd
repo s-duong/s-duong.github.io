@@ -6,4 +6,8 @@ author: <b>Data</b> enthusiast, early learning <b>researcher</b>, amateur pie <b
 date: <a href=about.html>About Me</a><br><a href=experience.html><b>Experience</b></a><br><a href=projects.html>Projects</a><br><a href=publications.html>Publications</a><br><a href=art.html>Pie Art</a><br><a href=credits.html>Credits</a>
 ---
 
-# CV/Resume
+
+<h1 style="text-align: center; color:#8c7edc;">Experience</h1>
+
+
+View my resume or CV!

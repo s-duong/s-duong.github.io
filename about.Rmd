@@ -16,9 +16,9 @@ date: <a href=about.html><b>About Me</b></a><br><a href=experience.html>Experien
 💻📚 **PhD candidate** in <font color="#54bf8d">**Cognitive Psychology**</font> at the University of Pittsburgh working with [Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530). My research focuses on:
 
 -   Links between children's **early math** experiences in the **home learning environment (HLE)** and the development of their math skills.
--   Exploring **new methods** (i.e., behavioral coding and statistical modeling) for the **measurement** of the HLE, particularly **interactions** between children and their caregivers.
+-   Exploring **new methods** (i.e., behavioral coding and statistical modeling) for the **measurement** of the HLE, particularly caregiver-child **interactions**.
 
-🧵🧩 Hobby enthusiast currently focused on <b>[pie art](https://s-duong.github.io/art.html)</b> 🥧
+🧵🧩 Hobbyist currently focused on <b>[pie art](https://s-duong.github.io/art.html)</b> 🥧
 
 ## Prior to graduate school, I...
 

@@ -6,4 +6,5 @@ author: <b>Data</b> enthusiast, early learning <b>researcher</b>, amateur pie <b
 date: <a href=about.html>About Me</a><br><a href=experience.html>Experience</a><br><a href=projects.html>Projects</a><br><a href=publications.html>Publications</a><br><a href=art.html><b>Pie Art</b></a><br><a href=credits.html>Credits</a>
 ---
 
-# Art
+
+<h1 style="text-align: center; color:#8c7edc;">Pie Art</h1>

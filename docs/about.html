@@ -11,7 +11,7 @@
 
 
 
-<title>About me</title>
+<title>empty</title>
 
 <script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -32,6 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/jquery-aniview-1.0.2/jquery.aniview.js"></script>
+<link href="site_libs/animate.css-3.7.2/animate.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -300,23 +302,24 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About me</h1>
+<h1 class="title toc-ignore">empty</h1>
 
 </div>
 
 <div id="TOC">
 <ul>
-<li><a href="#currently-i-am-a" id="toc-currently-i-am-a">Currently, I
-am a…</a></li>
-<li><a href="#prior-to-graduate-school-i"
-id="toc-prior-to-graduate-school-i">Prior to graduate school,
-I…</a></li>
+<li><a href="#about-me" id="toc-about-me">About me</a></li>
 </ul>
 </div>
 
-<h1 style="text-align: center; color:#8c7edc;">
-About Me
-</h1>
+<script>$(document).ready(function(){
+            $('.aniview').AniView({"animateThreshold":0,"scrollPollInterval":20});
+        });</script>
+<div id="about-me" class="section level1 aniview"
+data-av-animation="fadeInLeft">
+<h1>About me</h1>
+</div>
+<div class="aniview" data-av-animation="fadeInUp">
 <div id="currently-i-am-a" class="section level2">
 <h2>Currently, I am a…</h2>
 <p>📊📈 <strong>Data analyst</strong> at <a
@@ -356,6 +359,7 @@ Sharma</a>.</li>
 <li>See more of my experiences <a
 href="https://s-duong.github.io/experience.html">here</a>!</li>
 </ul>
+</div>
 </div>
 
 

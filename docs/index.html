@@ -11,7 +11,7 @@
 
 
 
-<title>Hi, there! 👋🏼</title>
+<title>index.knit</title>
 
 <script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -32,6 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/jquery-aniview-1.0.2/jquery.aniview.js"></script>
+<link href="site_libs/animate.css-3.7.2/animate.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -300,31 +302,41 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Hi, there! 👋🏼</h1>
 
 </div>
 
 
+<script>$(document).ready(function(){
+            $('.aniview').AniView({"animateThreshold":0,"scrollPollInterval":20});
+        });</script>
 <style type="text/css">
 /* use em units to allow viewers to resize the text; 1 em = 16 px */
+.hi {
+  font-size: 2.25em;
+}
 .intro {
   font-size: 3.25em;
 }
 </style>
 <!-- for accessing the link icons -->
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script>
-<body>
-<p><img src="headshot_dec22_rectangleresized.jpeg" align="right" hspace="50" vspace="20"></img></p>
-<!-- <img src="headshot_dec22.png" align="right" hspace="50"> -->
 <p><br></p>
+<div class="aniview" data-av-animation="fadeInLeft">
+<p class="hi">
+Hi, there! 👩🏻‍💻👋🏼
+</p>
+</div>
+<p><br></p>
+<div class="aniview" data-av-animation="fadeInRight">
 <p class="intro">
 I’m <strong>Shirley Duong</strong>, a
-<font color = "#8c7edc">data</font> enthusiast, early learning
-<font color = "#8c7edc">researcher</font>, and hobby
-<font color = "#8c7edc">artist</font>.
+<font color = "#8c7edc"><strong>data</strong></font> enthusiast, early
+learning <font color = "#8c7edc"><strong>researcher</strong></font>, and
+hobby <font color = "#8c7edc"><strong>artist</strong></font>.
 </p>
+</div>
 <p><br></p>
-</body>
+<div class="aniview" data-av-animation="fadeInUp">
 <p>Currently, I am a…</p>
 <ul>
 <li><p>📊📈 <b>Data analyst</b> at
@@ -336,7 +348,7 @@ working with
 <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa
 Libertus</a> at the University of Pittsburgh.</p></li>
 </ul>
-<p><br><br></p>
+</div>
 <!-- <p class="links">  -->
 <!-- Let's connect <a href="mailto:shirleyduong5@gmail.com"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.linkedin.com/in/duongshirley/"><i class="fa-brands fa-linkedin"></i></a> <a href="https://github.com/s-duong"><i class="fa fa-github"></i></a> <a href="https://www.researchgate.net/profile/Shirley-Duong"><i class="fa-brands fa-researchgate"></i></a> <a href="https://twitter.com/ShirleyDoesMath"><i class="fa-brands fa-square-twitter"></i></a> -->
 <!-- </p> -->

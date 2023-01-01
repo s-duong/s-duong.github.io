@@ -1,10 +1,17 @@
 ---
-title: Hi, there! 👋🏼 
+title:   
 output: html_document
 ---
 
+```{r, echo=FALSE}
+aniview::use_aniview() # animate presence of content
+```
+
 ```{css, echo=FALSE}
 /* use em units to allow viewers to resize the text; 1 em = 16 px */
+.hi {
+  font-size: 2.25em;
+}
 .intro {
   font-size: 3.25em;
 }
@@ -14,21 +21,31 @@ output: html_document
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
 
 
-<body>
-<img src="headshot_dec22_rectangleresized.jpeg" align="right" hspace="50" vspace="20"></img>
-
-<!-- <img src="headshot_dec22.png" align="right" hspace="50"> -->
 
 <br>
+
+::: {.aniview data-av-animation="fadeInLeft"}
+
+<p class="hi"> 
+Hi, there! 👩🏻‍💻👋🏼 
+</p>
+
+:::
+
+<br>
+
+::: {.aniview data-av-animation="fadeInRight"}
 
 <p class="intro"> 
 
-I'm **Shirley Duong**, a <font color = "#8c7edc">data</font> enthusiast, early learning <font color = "#8c7edc">researcher</font>, and hobby <font color = "#8c7edc">artist</font>.
+I'm **Shirley Duong**, a <font color = "#8c7edc">**data**</font> enthusiast, early learning <font color = "#8c7edc">**researcher**</font>, and hobby <font color = "#8c7edc">**artist**</font>.
 </p>
+
+:::
 
 <br>
 
-</body>
+::: {.aniview data-av-animation="fadeInUp"}
 
 Currently, I am a...
 
@@ -36,7 +53,7 @@ Currently, I am a...
 
 - 💻📚 <b>PhD candidate</b> in <font color = "#8c7edc">**Cognitive Psychology**</font> working with <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa Libertus</a> at the University of Pittsburgh.
 
-<br><br>
+:::
 
 
 <!-- <p class="links">  -->

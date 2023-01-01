@@ -1,8 +1,18 @@
 ---
-title: About me
+title: "empty"
 ---
 
-<h1 style="text-align: center; color:#8c7edc;">About Me</h1>
+```{r, echo=FALSE}
+aniview::use_aniview() # animate presence of content
+```
+
+::: {.aniview data-av-animation="fadeInLeft"}
+
+# About me
+
+:::
+
+::: {.aniview data-av-animation="fadeInUp"}
 
 
 ## Currently, I am a...
@@ -23,3 +33,5 @@ title: About me
 -   Conducted research in the Math Department at the University of New Haven with [Yasanthi Kottegoda](https://www.newhaven.edu/faculty-staff-profiles/yasanthi-kottegoda.php) and [Ramesh Sharma](https://www.newhaven.edu/faculty-staff-profiles/ramesh-sharma.php).
 -   See more of my experiences [here](https://s-duong.github.io/experience.html)!
 
+
+::: 

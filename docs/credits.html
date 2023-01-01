@@ -11,7 +11,7 @@
 
 
 
-<title>credits</title>
+<title>Website tools</title>
 
 <script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -32,6 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/jquery-aniview-1.0.2/jquery.aniview.js"></script>
+<link href="site_libs/animate.css-3.7.2/animate.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -256,6 +258,9 @@ $(document).ready(function () {
 <li>
   <a href="art.html">Art</a>
 </li>
+<li>
+  <a href="credits.html">Credits</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -297,14 +302,38 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">credits</h1>
+<h1 class="title toc-ignore">Website tools</h1>
 
 </div>
 
 
-<h1 style="text-align: center; color:#8c7edc;">
-Credits
-</h1>
+<script>$(document).ready(function(){
+            $('.aniview').AniView({"animateThreshold":0,"scrollPollInterval":20});
+        });</script>
+<!-- for accessing the link icons -->
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script>
+<div class="aniview" data-av-animation="fadeInUp">
+<p><br></p>
+<p>This website was built in <strong>R Markdown</strong> with <span
+class="badge bg-primary">R</span>, <span
+class="badge bg-primary">HTML</span>, and <span
+class="badge bg-primary">CSS</span>. Here are some (but not all) tools
+that I used:</p>
+<ul>
+<li>This
+<a href=https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html>section</a>
+of the definitive R Markdown guide which helped me get started!</li>
+<li>The <a href=https://bootswatch.com/flatly/>flatly theme</a> from
+Bootswatch</li>
+<li><a href=https://fontawesome.com/>Font Awesome’s</a> website icons
+which appear at the top right corner of the navigation bar (e.g., email,
+LinkedIn)</li>
+<li>The
+<a href=https://cran.r-project.org/web/packages/aniview/index.html>‘aniview’</a>
+R package to animate the entrance of text</li>
+<li>I googled A LOT!</li>
+</ul>
+</div>
 
 
 

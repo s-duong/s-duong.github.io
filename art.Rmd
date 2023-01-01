@@ -1,8 +1,23 @@
 ---
-title: art
+title: Current hobby = pie baking
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: false
 ---
+
+```{r, echo=FALSE}
+aniview::use_aniview() # animate presence of content
+```
 
 <!-- for accessing the link icons --> 
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
 
-<h1 style="text-align: center; color:#8c7edc;">Pie Art</h1>
+<br>
+
+::: {.aniview data-av-animation="fadeInUp"}
+
+<center><h3><font color="#8c7edc"> Still baking! Thanks for your patience 🙇🏻‍♀️ </font></h3></center>
+
+:::

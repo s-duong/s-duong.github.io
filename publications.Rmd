@@ -1,6 +1,23 @@
 ---
-title: <font color = "#8c7edc">Publications</font>
+title: Academic works
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: false
 ---
+
+```{r, echo=FALSE}
+aniview::use_aniview() # animate presence of content
+```
 
 <!-- for accessing the link icons --> 
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
+
+<br>
+
+::: {.aniview data-av-animation="fadeInUp"}
+
+I feel like this deserves its own page with links+ but perhaps that is overkill. I'll have to think about it, but for now, feel free to browse my <a href="ShirleyDuongCV.pdf">CV</a> for this info. Thanks! 🙂
+
+:::

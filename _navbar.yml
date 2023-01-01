@@ -10,6 +10,8 @@ left:
     href: publications.html
   - text: "Art"
     href: art.html
+  - text: "Credits"
+    href: credits.html
 right:
   - icon: fa-solid fa-envelope
     href: mailto:shirleyduong5@gmail.com

@@ -1,6 +1,30 @@
 ---
-title: credits
+title: Website tools
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: false
 ---
 
+```{r, echo=FALSE}
+aniview::use_aniview() # animate presence of content
+```
 
-<h1 style="text-align: center; color:#8c7edc;">Credits</h1>
+<!-- for accessing the link icons --> 
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
+
+::: {.aniview data-av-animation="fadeInUp"}
+
+<br>
+
+This website was built in **R Markdown** with <span class="badge bg-primary">R</span>, <span class="badge bg-primary">HTML</span>, and <span class="badge bg-primary">CSS</span>. Here are some (but not all) tools that I used:
+
+- This <a href=https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html>section</a> of the definitive R Markdown guide which helped me get started!
+- The <a href=https://bootswatch.com/flatly/>flatly theme</a> from Bootswatch
+- <a href=https://fontawesome.com/>Font Awesome's</a> website icons which appear at the top right corner of the navigation bar (e.g., email, LinkedIn)
+- The <a href=https://cran.r-project.org/web/packages/aniview/index.html>'aniview'</a> R package to animate the entrance of text
+- I googled A LOT!
+
+
+:::

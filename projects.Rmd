@@ -1,6 +1,80 @@
 ---
-title: projects
+title: Select works
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: false
 ---
+<!-- IDEAS? Include some visual of a research timeline here (for how academic research has evolved) -->
 
 
-<h1 style="text-align: center; color:#8c7edc;">Projects</h1>
+<!-- for accessing the link icons --> 
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
+
+Below are selected projects that I have led (or am currently directing 🙂).
+
+
+<br>
+
+
+# Profiles of home learning environments 
+
+A **cluster analysis** of families' **early math** practices, including math-related conversations and activities. This is my <font color="#8c7edc">**dissertation**</font> project, in which I am also **classifying** families into clusters based on various cognitive, affective, and socioeconomic factors and using these derived clusters to **predict children's academic skills**. 
+
+This project <font color="#8c7edc">extends my previous work</font>, a **cluster analysis** of dyadic interactions using various **language input** measures. [<a href="Duong_CogTalk_Nov21_NumberClusters_Slides.pdf">Slides for <i>Pitt Cognitive Talk Series</i></a>] [<a href="DuongEtAl-2022_CDS.pdf">Poster for <i>Cognitive Development Society Meeting</i></a>]
+
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">Ruby</span> <span class="badge bg-success"><i>k</i>-means cluster analysis</span> <span class="badge bg-success">hierarchical cluster analysis</span> <span class="badge bg-success">multinomial logistic regression</span> <span class="badge bg-success">inter-rater reliability</span> <span class="badge bg-success">descriptive analysis</span> <span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span> 
+
+<br>
+
+
+# Dynamic structures of social interactions
+
+A visual and quantitative analysis of **dyadic interactions** between caregivers and children using **cross-recurrence quantification analysis (CRQA)**. Specifically, this project extracts additional measures of interactions beyond frequencies of input (e.g., words, utterances), such as the presence and duration of **reciprocal** exchanges. 
+
+[<a href="https://github.com/s-duong/crqa-number-talk">Analysis code + Tutorial</a>] [<a href="Duong_CogTalk_Nov22_CRQA_Slides.pdf">Slides for <i>Pitt Cognitive Talk Series</i></a>] [<a href="">Journal article (under review)</a>]
+
+There are several parts:
+
+- Chronological **literature review** on the application of CRQA in early language research.
+- **Case study** and **tutorial** of CRQA on existing transcription data of dyadic conversations about numbers and math.
+- **Qualitative analysis** comparing frequency and CRQA measures of conversations and a **quantitative analysis** of the relations between input measures and children's academic skills. 
+
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">Ruby</span> <span class="badge bg-success">event/time series analysis</span> <span class="badge bg-success">recurrence analysis</span> <span class="badge bg-success">inter-rater reliability</span> <span class="badge bg-success">descriptive analysis</span><span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span> 
+
+
+<br>
+
+
+# Hot dasher summer
+
+A <font color="#8c7edc">**personal**</font> project to **track**, **visualize**, and **analyze** data on my ongoing <font color="red">**DoorDash**</font> side gig.
+
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">SQL</span> <span class="badge bg-secondary">Tableau/Google Looker Studio/Shiny</span> 
+
+<br>
+
+
+
+# High cognitive demand questions
+
+A multi-study project with 2 aims: 
+
+- Explore **links** between children's exposure to caregivers' high (vs. low-) cognitive demand (CD) **questions** in the home learning environment and children's **early academic skills**. [<a href="">Analysis code</a>] [<a href="DuongEtAl-2021_JECP.pdf">Journal article</a>] 
+- Investigate caregiver and child **factors** that **predict high-CD questioning**. [<a href="">Analysis code</a>] [<a href="">Journal article (under review)</a>]
+
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">Ruby</span> <span class="badge bg-success">linear regression</span> <span class="badge bg-success">mixed effects logistic regression</span> <span class="badge bg-success">inter-rater reliability</span> <span class="badge bg-success">power analysis</span><span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span> 
+
+
+<br>
+
+
+
+# Uncertainty resolution and numbers
+
+<!-- MIGHT REMOVE here for variety though! -->
+
+An **eye-tracking** study of adults' switching frequency during **numerical comparisons** and their **math skills**. In general, people who tend to **switch** between targets **more often** in a numerosity comparison task generally **perform better**, particularly if they have **high math** ability. [<a href="Duong_Fall2020_CMU_BrainBag.pdf">Slides for <i>CMU Brain Bag</i></a>] [<a href="DuongLibertus-2020_JDM.pdf">Poster for <i>Judgement and Decision Making Conference</i></a>]
+
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">MATLAB</span> <span class="badge bg-success">mixed effects logistic regression</span>

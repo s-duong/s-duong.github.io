@@ -1,6 +1,6 @@
 ---
-title: Pubs
+title: <font color = "#8c7edc">Publications</font>
 ---
 
-
-<h1 style="text-align: center; color:#8c7edc;">Publications</h1>
+<!-- for accessing the link icons --> 
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 

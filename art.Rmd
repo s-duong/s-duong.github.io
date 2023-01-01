@@ -2,5 +2,7 @@
 title: art
 ---
 
+<!-- for accessing the link icons --> 
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
 
 <h1 style="text-align: center; color:#8c7edc;">Pie Art</h1>

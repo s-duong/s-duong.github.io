@@ -6,6 +6,10 @@ title: "empty"
 aniview::use_aniview() # animate presence of content
 ```
 
+<!-- for accessing the link icons --> 
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
+
+
 ::: {.aniview data-av-animation="fadeInLeft"}
 
 # About me

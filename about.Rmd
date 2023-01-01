@@ -1,5 +1,10 @@
 ---
-title: "empty"
+title: About me
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: false
 ---
 
 ```{r, echo=FALSE}
@@ -9,33 +14,16 @@ aniview::use_aniview() # animate presence of content
 <!-- for accessing the link icons --> 
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
 
-
-::: {.aniview data-av-animation="fadeInLeft"}
-
-# About me
-
-:::
+<br>
 
 ::: {.aniview data-av-animation="fadeInUp"}
 
+This is an unneccessary page!
 
-## Currently, I am a...
+## I am a(n)...
 
-📊📈 **Data analyst** at [Trying Together](https://tryingtogether.org/), a non-profit organization supporting the work of early childcare and education.
-
-💻📚 **PhD candidate** in <font color="#54bf8d">**Cognitive Psychology**</font> at the University of Pittsburgh working with [Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530). My research focuses on:
-
--   Links between children's **early math** experiences in the **home learning environment (HLE)** and the development of their math skills.
--   Exploring **new methods** (i.e., behavioral coding and statistical modeling) for the **measurement** of the HLE, particularly caregiver-child **interactions**.
+📊📈 Emoji lover - you'll see them all over this site if you haven't already
 
 🧵🧩 Hobbyist currently focused on <b>[pie art](https://s-duong.github.io/art.html)</b> 🥧
-
-## Prior to graduate school, I...
-
--   Managed the Lab for Early Social Cognition at the University of Maryland, College Park, under Jonathan Beier.
--   Conducted research at the [Social Cognitive Development Lab](http://www.socialcogdev.com/) directed by Yarrow Dunham at Yale University and under the mentorship of Richard Ahl.
--   Conducted research in the Math Department at the University of New Haven with [Yasanthi Kottegoda](https://www.newhaven.edu/faculty-staff-profiles/yasanthi-kottegoda.php) and [Ramesh Sharma](https://www.newhaven.edu/faculty-staff-profiles/ramesh-sharma.php).
--   See more of my experiences [here](https://s-duong.github.io/experience.html)!
-
 
 ::: 

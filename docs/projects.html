@@ -32,6 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/jquery-aniview-1.0.2/jquery.aniview.js"></script>
+<link href="site_libs/animate.css-3.7.2/animate.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -245,9 +247,6 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="about.html">About</a>
-</li>
-<li>
   <a href="experience.html">Experience</a>
 </li>
 <li>
@@ -306,10 +305,45 @@ $(document).ready(function () {
 
 
 <!-- IDEAS? Include some visual of a research timeline here (for how academic research has evolved) -->
+<!-- Definitely need to add VISUALS like a screenshot of the posters and stuff... maybe put these in boxes? Need to figure out how to make columns... -->
+<script>$(document).ready(function(){
+            $('.aniview').AniView({"animateThreshold":0,"scrollPollInterval":20});
+        });</script>
 <!-- for accessing the link icons -->
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script>
-<p>Below are selected projects that I have led (or am currently
-directing 🙂).</p>
+<div class="aniview" data-av-animation="fadeInUp">
+<ul>
+<li><a href="#profiles-of-home-learning-environments">Profiles of home
+learning environments</a></li>
+<li><a href="#dynamic-structures-of-social-interactions">Dynamic
+structures of social interactions</a></li>
+<li><a
+href="#exploration-uncertainty-and-numerical-judgements">Exploration,
+uncertainty, and numerical judgements</a></li>
+<li><a href="#hot-dasher-summer">Hot dasher summer</a></li>
+<li><a href="#high-cognitive-demand-questions">High cognitive demand
+questions</a></li>
+</ul>
+<p><br></p>
+<center>
+<p>Leading these projects have given me opportunities to engage deeply
+in:</p>
+<h5>
+<strong>Data collection</strong> | <strong>Data cleaning</strong> |
+<strong>Exploratory data analysis</strong> |
+<strong>Visualization</strong> | <strong>Machine learning</strong> |
+<strong>Scientific communication</strong>
+</h5>
+</center>
+<br>
+<center>
+…
+</center>
+<p><br></p>
+<p>Feel free to view a full list of projects on my
+<a href=publications.html>publications</a> page and/or
+<a href="mailto:shirleyduong5@gmail.com">ask me</a> about my work as
+<font color="#8c7edc"><strong>data analyst</strong></font>!</p>
 <p><br></p>
 <div id="profiles-of-home-learning-environments" class="section level1">
 <h1>Profiles of home learning environments</h1>
@@ -335,6 +369,7 @@ class="badge bg-success">hierarchical cluster analysis</span> <span
 class="badge bg-success">multinomial logistic regression</span> <span
 class="badge bg-success">inter-rater reliability</span> <span
 class="badge bg-success">descriptive analysis</span> <span
+class="badge bg-success">transcription coding</span> <span
 class="badge bg-secondary">Qualtrics</span> <span
 class="badge bg-secondary">Datavyu</span></p>
 <p><br></p>
@@ -347,7 +382,10 @@ interactions</strong> between caregivers and children using
 <strong>cross-recurrence quantification analysis (CRQA)</strong>.
 Specifically, this project extracts additional measures of interactions
 beyond frequencies of input (e.g., words, utterances), such as the
-presence and duration of <strong>reciprocal</strong> exchanges.</p>
+presence and duration of <strong>reciprocal</strong> exchanges. This
+work is a collaboration with
+<a href="https://researchdirectory.uc.edu/p/davtj">Tehran Davis</a> at
+the University of Cinncinati.</p>
 <p>[<a href="https://github.com/s-duong/crqa-number-talk">Analysis code
 + Tutorial</a>] [<a href="Duong_CogTalk_Nov22_CRQA_Slides.pdf">Slides
 for <i>Pitt Cognitive Talk Series</i></a>] [<a href="">Journal article
@@ -369,9 +407,29 @@ class="badge bg-primary">Ruby</span> <span
 class="badge bg-success">event/time series analysis</span> <span
 class="badge bg-success">recurrence analysis</span> <span
 class="badge bg-success">inter-rater reliability</span> <span
-class="badge bg-success">descriptive analysis</span><span
+class="badge bg-success">descriptive analysis</span> <span
+class="badge bg-success">transcription coding</span> <span
 class="badge bg-secondary">Qualtrics</span> <span
 class="badge bg-secondary">Datavyu</span></p>
+<p><br></p>
+</div>
+<div id="exploration-uncertainty-and-numerical-judgements"
+class="section level1">
+<h1>Exploration, uncertainty, and numerical judgements</h1>
+<p>An <strong>eye-tracking</strong> study of <strong>exploratory
+behavior</strong>, i.e., eye switching frequency, during
+<strong>numerical comparisons</strong> and math skills in
+<strong>children</strong>
+[<a href="https://github.com/s-duong/exploration-eyetracking-ans/blob/main/Final_Project_Duong.ipynb">Jupyter
+Notebook</a>] and <strong>adults</strong>
+[<a href="Duong_Fall2020_CMU_BrainBag.pdf">Slides for <i>CMU Brain
+Bag</i></a>] [<a href="DuongLibertus-2020_JDM.pdf">Poster for
+<i>Judgement and Decision Making Conference</i></a>]</p>
+<p><span class="badge bg-primary">R</span> <span
+class="badge bg-primary">Python</span> <span
+class="badge bg-primary">MATLAB</span> <span
+class="badge bg-success">mixed effects logistic regression</span> <span
+class="badge bg-success">exploration simulations</span></p>
 <p><br></p>
 </div>
 <div id="hot-dasher-summer" class="section level1">
@@ -393,36 +451,24 @@ class="badge bg-secondary">Tableau/Google Looker Studio/Shiny</span></p>
 caregivers’ high (vs. low-) cognitive demand (CD)
 <strong>questions</strong> in the home learning environment and
 children’s <strong>early academic skills</strong>. [<a href="">Analysis
-code</a>] [<a href="DuongEtAl-2021_JECP.pdf">Journal article</a>]</li>
+code</a>] [<a href="DuongEtAl-2021_JECP.pdf">Journal article in
+<i>Journal of Experimental Child Psychology</i></a>]</li>
 <li>Investigate caregiver and child <strong>factors</strong> that
 <strong>predict high-CD questioning</strong>. [<a href="">Analysis
 code</a>] [<a href="">Journal article (under review)</a>]</li>
 </ul>
 <p><span class="badge bg-primary">R</span> <span
 class="badge bg-primary">Ruby</span> <span
+class="badge bg-primary">Stata</span> <span
 class="badge bg-success">linear regression</span> <span
 class="badge bg-success">mixed effects logistic regression</span> <span
 class="badge bg-success">inter-rater reliability</span> <span
-class="badge bg-success">power analysis</span><span
+class="badge bg-success">power analysis</span> <span
+class="badge bg-success">transcription coding</span> <span
 class="badge bg-secondary">Qualtrics</span> <span
 class="badge bg-secondary">Datavyu</span></p>
 <p><br></p>
 </div>
-<div id="uncertainty-resolution-and-numbers" class="section level1">
-<h1>Uncertainty resolution and numbers</h1>
-<!-- MIGHT REMOVE here for variety though! -->
-<p>An <strong>eye-tracking</strong> study of adults’ switching frequency
-during <strong>numerical comparisons</strong> and their <strong>math
-skills</strong>. In general, people who tend to <strong>switch</strong>
-between targets <strong>more often</strong> in a numerosity comparison
-task generally <strong>perform better</strong>, particularly if they
-have <strong>high math</strong> ability.
-[<a href="Duong_Fall2020_CMU_BrainBag.pdf">Slides for <i>CMU Brain
-Bag</i></a>] [<a href="DuongLibertus-2020_JDM.pdf">Poster for
-<i>Judgement and Decision Making Conference</i></a>]</p>
-<p><span class="badge bg-primary">R</span> <span
-class="badge bg-primary">MATLAB</span> <span
-class="badge bg-success">mixed effects logistic regression</span></p>
 </div>
 
 

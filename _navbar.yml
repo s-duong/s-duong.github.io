@@ -2,8 +2,6 @@ name: "shirley's personal website"
 title: S. Duong 
 type: 
 left:
-  - text: "About"
-    href: about.html
   - text: "Experience"
     href: experience.html
   - text: "Projects"

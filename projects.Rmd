@@ -59,7 +59,7 @@ This project <font color="#8c7edc">extends my previous work</font>, a **cluster 
 
 # Dynamic structures of social interactions
 
-A visual and quantitative analysis of **dyadic interactions** between caregivers and children using **cross-recurrence quantification analysis (CRQA)**. Specifically, this project extracts additional measures of interactions beyond frequencies of input (e.g., words, utterances), such as the presence and duration of **reciprocal** exchanges. This work is a collaboration with <a href="https://researchdirectory.uc.edu/p/davtj">Tehran Davis</a> at the University of Cinncinati.  
+A visual and quantitative analysis of **dyadic interactions** between caregivers and children using **cross-recurrence quantification analysis (CRQA)**. Specifically, this project extracts additional measures of interactions beyond frequencies of input (e.g., words, utterances), such as the presence and duration of **reciprocal** exchanges. This work is a <font color="#8c7edc"><b>collaboration</b></font> with <a href="https://researchdirectory.uc.edu/p/davtj">Tehran Davis</a> at the University of Cinncinati.  
 
 [<a href="https://github.com/s-duong/crqa-number-talk">Analysis code + Tutorial</a>] [<a href="Duong_CogTalk_Nov22_CRQA_Slides.pdf">Slides for <i>Pitt Cognitive Talk Series</i></a>] [<a href="">Journal article (under review)</a>]
 

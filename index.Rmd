@@ -50,9 +50,9 @@ I'm **Shirley Duong**, a <font color = "#8c7edc">**data**</font> enthusiast, ear
 
 Currently, I am a...
 
-- 📊📈 <b>Data analyst</b> at <a href=https://tryingtogether.org/>Trying Together</a>, a non-profit supporting the work of early childcare and education.
+- 📊📈 <b>Data analyst</b> at <a href=https://tryingtogether.org/>Trying Together</a>, a non-profit supporting the work of early childcare and education
 
-- 💻📚 <b>PhD candidate</b> in <font color = "#8c7edc">**Cognitive Psychology**</font> working with <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa Libertus</a> at the University of Pittsburgh.
+- 💻📚 <b>PhD candidate</b> in <font color = "#8c7edc">**Cognitive Psychology**</font> working with <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa Libertus</a> at the University of Pittsburgh
 
 - 🧵🧩 <b>Serial hobbyist</b> focused on [pie art](https://s-duong.github.io/art.html) 🥧 at the moment
 

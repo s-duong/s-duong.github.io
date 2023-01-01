@@ -23,15 +23,15 @@ For more details, see my: <br><br>
 
 <h1> Education </h1>
 
-<h3> University of Pittsburgh </h3>
-- **Cognitive Psychology**, M.S. (2021), Ph.D. (Expected 2023) 
+<h3> **Cognitive Psychology**, M.S. (2021); Ph.D. (Expected 2023)  @ the <a href=http://psychology.pitt.edu/>University of Pittsburgh</a> </h3> 
 - National Science Foundation Graduate Research Fellowship 
 - *Certificate, Center for the Neural Basis of Cognition*
 - 🙇🏻‍♀️📚 <font color="#8c7edc"><b>Relevant coursework</b></font>: Machine Learning, Data Science for Psychology and Neuroscience, Data Visualization, Mixed Effects Models, Parallel Distributed Processing, Data Mining (Upcoming)
 
-<h3> University of New Haven </h3>
-- Psychology, B.A. (2017) 
+<h3> Psychology, B.A. (2017) @ the <a href=https://www.newhaven.edu/arts-sciences/undergraduate-programs/psychology/index.php>University of New Haven </a></h3> 
 - *Mathematics Minor*
+
+
 
 
 <br>
@@ -48,9 +48,9 @@ For more details, see my: <br><br>
 
 <br>
 
-<h3> Graduate Researcher  @ the <a href="https://www.lrdc.pitt.edu/">University of Pittsburgh's Learning Research and Development Center</a> </h3> 
+<h3> Graduate Researcher  @ the <a href="https://www.lrdc.pitt.edu/"> Learning Research and Development Center</a> </h3> 
 
-<font color="#8c7edc"><b>My Ph.D. program provided me with rich opportunities to engage in a diversity of data, management, and research practices! This is where I acquired my love for and (most of my) skills in data science!</b></font> [<a href=publications.html>Publications</a>]
+<font color="#8c7edc"><b>My Ph.D. program at the University of Pittsburgh has provided me with rich opportunities to engage in a diversity of data, management, and research practices! This is where I acquired my love for and (most of my) skills in data science!</b></font> [<a href=publications.html>Publications</a>]
 
 - 👋🏼 Direct 5 <a href=projects.html>projects</a> within the <a href="https://lrdc.pitt.edu/ppel/">Parents Promoting Early Learning Study</a> broadly examining:
   + Links between children's **early math** experiences in the **home learning environment (HLE)** and the development of their math skills.
@@ -65,7 +65,7 @@ For more details, see my: <br><br>
 
 <br>
 
-<h3> Programming and statistical consultant @ Various 🙂 </h3> 
+<h3> Programming and Statistical Consultant </h3> 
 
 - 🐞 Modify, test, and debug code of a cognitive assessment battery
 - 👩🏻‍💻  Analyze large datasets from email campaigns to inform company marketing strategies 

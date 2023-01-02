@@ -1,5 +1,5 @@
 ---
-title: Professional and academic <b>highlights</b>
+title: Professional and academic roles
 output:  
   html_document:  
     self_contained: no  
@@ -17,20 +17,20 @@ aniview::use_aniview() # animate presence of content
 ::: {.aniview data-av-animation="fadeInUp"}
 
 For more details, see my: <br><br>
-<a href="ShirleyDuongCV.pdf"><button type="button" class="btn btn-success">CV</button></a>  <a href="ShirleyDuongResume.pdf"><button type="button" class="btn btn-success">Resume</button></a>
+<a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongCV.pdf"><button type="button" class="btn btn-success">CV</button></a>  <a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongResume.pdf"><button type="button" class="btn btn-success">Resume</button></a>
 
 <br>
 
 <h1> Education </h1>
 
 <h3> Cognitive Psychology, M.S. (2021); Ph.D. (Expected 2023)  <br>
-<a href=http://psychology.pitt.edu/>University of Pittsburgh (Pitt)</a> </h3> 
+<a target="_blank" rel="noopener noreferrer" href="http://psychology.pitt.edu/">University of Pittsburgh (Pitt)</a> </h3> 
 - National Science Foundation Graduate Research Fellowship ($138,000 scholarship over 5 years) 
 - *Certificate, Center for the Neural Basis of Cognition* (joint training program @ Pitt and Carnegie Mellon University)
 - 🙇🏻‍♀️📚 <font color="#8c7edc"><b>Relevant coursework</b></font>: Machine Learning, Data Science for Psychology and Neuroscience, Data Visualization, Mixed Effects Models, Parallel Distributed Processing, Data Mining (Upcoming)
 
 <h3> Psychology, B.A., Mathematics Minor (2017) <br>
-<a href=https://www.newhaven.edu/arts-sciences/undergraduate-programs/psychology/index.php>University of New Haven </a></h3> 
+<a target="_blank" rel="noopener noreferrer" href="https://www.newhaven.edu/arts-sciences/undergraduate-programs/psychology/index.php">University of New Haven </a></h3> 
 
 
 <br>
@@ -38,20 +38,22 @@ For more details, see my: <br><br>
 
 <h1> Work </h1>
 
-<h3> Data Analyst  @ <a href="https://tryingtogether.org/">Trying Together</a> <div style="float: right">Sept 2022-Now</div> </h3> 
+<h3> Data Analyst  @ <a target="_blank" rel="noopener noreferrer" href="https://tryingtogether.org/">Trying Together</a> <div style="float: right">Sept 2022-Now</div> </h3> 
 
-- 📝 Design community and organizational surveys surrounding the early childcare workforce and climate, early childhood initiatives and programs (e.g., <a href="https://buzzwordpgh.org/">Buzzword</a>, <a href=https://www.playfulpittsburgh.org/>Playful Pittsburgh Collaborative</a>), and professional development to inform operational, collaborator, and stakeholder needs
+<font color="#8c7edc"><b>I apply my technical skills in a non-academic setting to support an incredible mission and team! I am also learning and employing new analytics and visualization tools and telling stores with data to a non-academic audience.</b></font> 
+
+- 📝 Design community and organizational surveys surrounding the early childcare workforce and climate, early childhood initiatives and programs (e.g., <a target="_blank" rel="noopener noreferrer" href="https://buzzwordpgh.org/">Buzzword</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.playfulpittsburgh.org/">Playful Pittsburgh Collaborative</a>), and professional development to inform operational, collaborator, and stakeholder needs
 - 📊 Translate and present qualitative and quantitative results via brief research reports and data visualization dashboards to track and support the organization's strategies and goals
 
-<span class="badge bg-primary">R</span> <span class="badge bg-primary">Tableau</span> <span class="badge bg-primary">Google Looker Studio</span> <span class="badge bg-primary">ArcGIS</span> <span class="badge bg-primary">Qualtrics</span> <span class="badge bg-primary">SurveyMonkey</span>
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">Tableau</span> <span class="badge bg-primary">Google Looker Studio</span> <span class="badge bg-primary">ArcGIS</span> <span class="badge bg-primary">Qualtrics</span> 
 
 <br>
 
-<h3> Graduate Researcher  @ the <a href="https://www.lrdc.pitt.edu/"> Learning Research & Development Center</a> <div style="float: right">Jul 2018-Now</div> </h3> 
+<h3> Graduate Researcher  @ the <a target="_blank" rel="noopener noreferrer" href="https://www.lrdc.pitt.edu/"> Learning Research & Development Center</a> <div style="float: right">Jul 2018-Now</div> </h3> 
 
-<font color="#8c7edc"><b>My Ph.D. program at Pitt has provided me with rich opportunities to engage in a diversity of data, research, and management practices. This is where I primarily acquired my love for and skills in data science!</b></font> View my <a href=projects.html>Projects</a> and <a href=publications.html>Scientific Communications</a> for more info.
+<font color="#8c7edc"><b>I seek out and engage in a variety of data, research, and management practices. This role is where I (primarily) acquired my love for and skills in data science!</b></font> View my <a href=projects.html>Projects</a> and <a href=publications.html>Scientific Communications</a> for more info.
 
-- 👋🏼 Direct 5 projects resulting in 9 peer-reviewed journal articles, 1 book chapter, 3 first-author papers under review, and 3 talks and 20 poster presentations at (inter)national conferences primarily with the <a href="https://lrdc.pitt.edu/ppel/">Parents Promoting Early Learning Study</a> on:
+- 👋🏼 Direct 5 projects resulting in 9 peer-reviewed journal articles, 1 book chapter, 3 first-author papers under review, and 3 talks and 20 poster presentations at (inter)national conferences primarily with the <a target="_blank" rel="noopener noreferrer" href="https://lrdc.pitt.edu/ppel/">Parents Promoting Early Learning Study</a> on:
   + Links between children's math experiences in the home learning environment (HLE) and their emerging math skills.
   + Innovative methods (i.e., behavioral coding and statistical modeling) for the measurement of the HLE to optimize data (re)use and reduce data collection and coding costs
 - 🔢 Develop, implement, and train 20+ research assistants on transcription coding schemes to capture the temporal sequence and qualitative features of conversations (e.g., types of questions and feedback, talk about math and spatial concepts) 
@@ -65,6 +67,8 @@ For more details, see my: <br><br>
 
 <h3> Statistical and Programming Consultant <div style="float: right">Dec 2021-Now</div> </h3> 
 
+<font color="#8c7edc"><b>I support academic and industry projects in a diversity of areas and engage in scientific communication to a broader audience.</b></font>
+
 - 🐞 Modify, test, and debug code of a cognitive assessment battery for a multi-site, early elementary intervention targeting executive functioning and math skills 
 - 📊 Execute data cleaning, outlier detection, power analyses, visualization, and descriptive and predictive analyses on financial service email campaigns to inform 10+ companies' marketing strategies
 - 🔢 Developed and implemented a qualitative coding scheme capturing themes in interviews for a project on adolescents' social identity development in school
@@ -75,9 +79,9 @@ For more details, see my: <br><br>
 
 <br>
 
-<h3> Psychology Course Instructor @ the <a href="http://psychology.pitt.edu/">University of Pittsburgh</a> <div style="float: right">Aug 2021-May 2022</div> </h3> 
+<h3> Psychology Course Instructor @ the <a target="_blank" rel="noopener noreferrer" href="http://psychology.pitt.edu/">University of Pittsburgh</a> <div style="float: right">Aug 2021-May 2022</div> </h3> 
 
-- Lab courses (~30 students): **Research Methods**, **Cognitive Psychology** 
+- Lab courses (~30 students): Research Methods, Cognitive Psychology
 - 🤝 Exercised inclusive, student-centered instruction on research methods, data analysis and visualization, and scientific writing
 - 👩🏻‍🏫 Prepared and delivered lectures, facilitated discussion, and provided feedback on student research papers
 
@@ -89,9 +93,9 @@ For more details, see my: <br><br>
 
 <!-- Lol it seems like I like switching between HTML and markdown... -->
 
-- Managed the [Lab for Early Social Cognition](http://socialkidslab.umd.edu/) at the University of Maryland, College Park, under Jonathan Beier
-- Conducted research at the [Social Cognitive Development Lab](http://www.socialcogdev.com/) directed by Yarrow Dunham at Yale University and under the mentorship of Richard Ahl
-- Conducted research in the Math Department at the University of New Haven with [Yasanthi Kottegoda](https://www.newhaven.edu/faculty-staff-profiles/yasanthi-kottegoda.php) and [Ramesh Sharma](https://www.newhaven.edu/faculty-staff-profiles/ramesh-sharma.php)
+- Managed the <a target="_blank" rel="noopener noreferrer" href="http://socialkidslab.umd.edu/">Lab for Early Social Cognition</a> at the University of Maryland, College Park, under Jonathan Beier
+- Conducted research at the <a target="_blank" rel="noopener noreferrer" href="http://www.socialcogdev.com/">Social Cognitive Development Lab</a> directed by Yarrow Dunham at Yale University and under the mentorship of Richard Ahl
+- Conducted research in the Math Department at the University of New Haven with <a target="_blank" rel="noopener noreferrer" href="https://www.newhaven.edu/faculty-staff-profiles/yasanthi-kottegoda.php">Yasanthi Kottegoda</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.newhaven.edu/faculty-staff-profiles/ramesh-sharma.php">Ramesh Sharma </a>
 - Tutored math and instructed marching band and colorguard at various institutions 
 
 

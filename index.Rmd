@@ -54,6 +54,10 @@ Currently, I am a...
 
 - 💻📚 <b>PhD candidate</b> in <font color = "#8c7edc">**Cognitive Psychology**</font> working with <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa Libertus</a> at the University of Pittsburgh
 
-- 🧵🧩 <b>Serial hobbyist</b> focused on [pie art](https://s-duong.github.io/art.html) 🥧 at the moment
+- 🧵🧩 <b>Serial hobbyist</b> focused on [pie art](https://s-duong.github.io/art.html) 🥧 and chess at the moment
+
+<br>
+
+<a target="_blank" rel="noopener noreferrer" href = "files/ShirleyDuongResume.pdf"><button type="button" class="btn btn-success">Download my resume</button></a> <a target="_blank" rel="noopener noreferrer" href="mailto:shirleyduong5@gmail.com"><button type="button" class="btn btn-success">Get in touch</button></a>
 
 :::

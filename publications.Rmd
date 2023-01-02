@@ -18,7 +18,7 @@ aniview::use_aniview() # animate presence of content
 
 ::: {.aniview data-av-animation="fadeInUp"}
 
-<font color="#8c7edc"><b>I have had the privilege to present my research at many local, national, and international meetings, as well as collaborate with several researchers within and outside of my current institution, the University of Pittsburgh.</b></font> Feel free to browse these publications and <a href=mailto:shirleyduong5@gmail.com>email me</a> if you'd like to discuss or see a copy of anything without a link below.
+<font color="#8c7edc"><b>I have presented my work at many local, national, and international meetings, as well as collaborate with several researchers within and beyond my current institution.</b></font> Feel free to browse these publications and <a href=mailto:shirleyduong5@gmail.com>email me</a> if you'd like to discuss or see a copy of anything below.
 
 
 **Contents**:

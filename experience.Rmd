@@ -16,10 +16,15 @@ aniview::use_aniview() # animate presence of content
 
 ::: {.aniview data-av-animation="fadeInUp"}
 
-For more details, see my: <br><br>
+
+> The gist: A curious and adaptable gal with **7+** years of **diverse research**, **data**, and **management** experiences in  academia, and more recently, the non-profit and corporate sectors.  <br><br> My academic research has focused primarily on applying **new coding and modeling techniques** to studying **conversations** and I aim to **expand my career in industry**. 
+
+
+For more details, see below or download my: <br><br>
 <a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongCV.pdf"><button type="button" class="btn btn-success">CV</button></a>  <a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongResume.pdf"><button type="button" class="btn btn-success">Resume</button></a>
 
 <br>
+
 
 <h1> Education </h1>
 

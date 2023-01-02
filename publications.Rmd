@@ -1,5 +1,5 @@
 ---
-title: Academic works
+title: Academic papers, talks, posters
 output:  
   html_document:  
     self_contained: no  
@@ -14,10 +14,160 @@ aniview::use_aniview() # animate presence of content
 <!-- for accessing the link icons --> 
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
 
-<br>
+
 
 ::: {.aniview data-av-animation="fadeInUp"}
 
-I feel like this deserves its own page with links+ but perhaps that is overkill. I'll have to think about it, but for now, feel free to browse my <a href="ShirleyDuongCV.pdf">CV</a> for this info. Thanks! 🙂
+<font color="#8c7edc"><b>I have had the privilege to present my research at many local, national, and international meetings, as well as collaborate with several researchers within and outside of my current institution, the University of Pittsburgh.</b></font> Feel free to browse these publications and <a href=mailto:shirleyduong5@gmail.com>email me</a> if you'd like to discuss or see a copy of anything without a link below.
+
+
+**Contents**:
+
+* [Peer-reviewed journal articles](#peer-reviewed-journal-articles)
+* [Book chapter](#book-chapter)
+* [Papers under peer review](#papers-under-peer-review)
+* [Papers in prep](#papers-in-prep)
+* [Conference presentations](#conference-presentations)
+* [Invited and local presentations](#invited-and-local-presentations)
+
+
+Superscripts: <sup>^</sup>Joint authorship, <sup>+</sup>Undergraduate student or post-bacc mentee
+
+<br>
+
+## Peer-reviewed journal articles  
+
+- <sup>+</sup>Carver, C., **Duong, S.**, Bachman, H., Votruba-Drzal, E., & Libertus, M. E. (2022). Examining relations between parental feedback types and preschool-aged children’s academic skills. *International Journal of Psychological Studies, 14*(4). https://doi.org/10.5539/ijps.v14n4p1
+
+- Elliott, L. E., Carvalho Pereira, J. M., Portia, M. L., Coulanges, L., Podvysotska, T., **Duong, S.**, Bachman, H. J., Votruba Drzal, E., & Libertus, M. (2022). Self-regulation in toddlers and the emergence of pre-academic disparities. *Infant Behavior and Development, 69*, 101779. https://doi.org/10.1016/j.infbeh.2022.101779
+
+- Bachman, H. J., Votruba-Drzal, E., Miller, P. L., Elliott, L. E., **Duong, S.**, & Libertus, M. E. (2022). Associations among socioeconomic status and preschool-aged children’s approximate number system acuity, number, and spatial skills: The role of executive function. *Journal of Experimental Psychology, 221*, 105453. https://doi.org/10.1016/j.jecp.2022.105453
+
+- **Duong, S.**, Bachman, H. J., Votruba-Drzal, E., & Libertus, M. (2021). What’s in a question? Parents’ question use in dyadic interactions and the relation to preschool-aged children’s math abilities. *Journal of Experimental Child Psychology, 211*, 105213. https://doi.org/10.1016/j.jecp.2021.105213
+
+- Libertus, M. E., **Duong, S.**, Fox, D., Elliott, L. E., McGregor, R., Ribner, A., & Silver, A. (2021) A rational explanation for links between the ANS and math. Commentary to Clark, S., Beck J., (2021) The number sense represents (rational) numbers in *Behavioral and Brain Sciences*, 1-57. https://doi.org/10.1017/S0140525X21001011
+
+- Bachman, H. J., Elliott, L., **Duong, S.**, Betancur, L., Navarro, M. G., Votruba-Drzal, E., & Libertus, M. (2020). Triangulating multi-method assessments of parental support for early math skills. *Frontiers in Education: Educational Psychology*. https://doi.org/10.3389/feduc.2020.589514
+ 
+- Kottegoda, Y., Mastropietro, A., & **Duong, S**. (2019). Characteristics of modulo one sequences. *Elemente der Mathematik, 74*, 1-11. https://doi.org/10.4171/em/410
+
+- Ramesh, S., **Duong, S.**, Dosani, F., & Dina, B. (2019). A note on Wronskians of real analytic functions. *Far East Journal of Mathematical Education, 19*(2), 113-117.
+
+- Ahl, R.E., **Duong, S.**, & Dunham, Y. (2019). Children employ wealth cues when predicting others’
+sharing. *Developmental Psychology, 55*(2), 303-314. https://doi.org/10.1037/dev0000643 
+
+<br>
+
+## Book chapter
+
+- Libertus, M. E., <sup>^</sup>**Duong, S.**, & <sup>^</sup>Silver, A. (2020). Mathematical cognition. In Benson, J. B. (Ed.), Encyclopedia of infant and early childhood development, 2nd edition vol. 2, (pp.311-318). Cambridge, MA: Academic Press. https://doi.org/10.1016/B9780-12-809324-5.23573-6
+
+<br>
+
+## Papers under peer review
+
+- **Duong, S.**, Bachman, H. J., Votruba-Drzal, E., & Libertus, M. Exploring the role of “in the moment” and global factors in parents’ questioning during shared book reading.
+
+- **Duong, S.**, Davis, T., Bachman, H., Votruba-Drzal, E., & Libertus, M. E. It takes two to tango: Exploring the dynamic structures of caregiver-child number talk using recurrence quantification.
+
+- **Duong, S.**, Elliott, L. E., <sup>+</sup>Sodoti, O. C., Bachman, H., Libertus, M. E., & Votruba-Drzal, E. Money talks! The role of parents’ discussion of money for preschoolers’ math knowledge. 
+
+<br>
+
+## Papers in prep 
+
+- Chandler-Campbell, I., <sup>+</sup>Manley, C. E., **Duong, S.**, <sup>+</sup>Pickering, A., & Corriveau, K. H. Promoting learning agency outside of the classroom: Effects of autonomy-supportive language on child- engagement in informal STEM learning 
+
+<br>
+
+## Conference presentations
+
+- **Duong, S.**, Davis, T., Votruba-Drzal, E., Bachman, H. J., & Libertus, M. E. (2023, March). It takes two to tango: Dynamic and reciprocal caregiver-child conversations about numbers and math. In I. Chandler-Campbell & S. Duong (Chairs), *Tinkerer, Investigator, Learner, Scientist: Promoting children’s active role in informal STEM conversations.* [Symposium]. Society for Research in Child Development Biennial Meeting, Salt Lake City, UT.
+
+- Chandler-Campbell, I., <sup>+</sup>Manley, **C. E., Duong, S.**, <sup>+</sup>Pickering, A., & Corriveau, K. (2023, March). Effecst of autonomy-supportive language on child engagement in informal STEM learning. In I. Chandler-Campbell & S. Duong (Chairs), *Tinkerer, Investigator, Learner, Scientist: Promoting children’s active role in informal STEM conversations.* [Symposium]. Society for Research in Child Development Biennial Meeting, Salt Lake City, UT.
+
+- **Duong, S.**, Carvalho Pereira, J. M., <sup>+</sup>Lopiccolo, D., Votruba-Drzal, E., Bachman, H. J., & Libertus, M. E. (2023, March). “Beneath counts: Exploring the dynamics of caregiver-child conversations about numbers and math in semi-structured activities.” [Poster] Society for Research in Child Development Biennial Meeting, Salt Lake City, UT.
+
+- Carvalho Pereira, J. M., Elliott, L., **Duong, S.**, Kothari, D., <sup>+</sup>Lopiccolo, D., Bachman, H. J., Votruba-Drzal, E., & Libertus, M. E. (2023, March). Are Some Math Talk Types More/Less Related to Concurrent Math Skills? Examining Preschoolers’ Quantifier Talk. [Poster] Society for Research in Child Development, Salt Lake City, Utah.
+
+- **Duong, S.**, Elliott, L. E., Bachman, H., Votruba-Drzal, E., & Libertus, M. (2022, June). “Variation in parents’ number talk with their preschool-aged children: A cluster-analytic approach.” [Poster] Mathematical Cognition and Learning Society Conference, Antwerp, Belgium.
+
+- <sup>+</sup>Hofman, S., **Duong, S.**, Bachman, H., Votruba-Drzal, E., & Libertus, M. (2022, June). “The Role of Gestural and Spatial Input in Children’s Early Spatial Skills.” [Poster] Mathematical Cognition and Learning Society Conference, Antwerp, Belgium.
+
+- Carvalho Pereira, J. M., **Duong, S.**, Elliott, L. E., Bachman, H., Votruba-Drzal, E., & Libertus, M. (2022, June). “Toddlers’ math talk in response to parents’ math-related prompts, but not statements, predicts early numeracy.” [Poster] Mathematical Cognition and Learning Society Conference, Antwerp, Belgium.
+
+- **Duong, S.**, Elliott, L. E., Bachman, H., Votruba-Drzal, E., & Libertus, M. (2022, April). “Exploring clusters of parents engaging in number talk with their preschool-aged children and the relation to children’s math skills.” [Poster] Cognitive Development Society Conference, Madison, WI.
+
+- Chandler-Campbell, I., <sup>+</sup>Manley, C. E., **Duong, S.**, <sup>+</sup>Pickering, A., & Corriveau, K. H. (April, 2022). “Promoting learning agency outside of the classroom: Effects of autonomy-supportive language on child-engagement in informal STEM learning.” [Poster] Cognitive Development Society Conference, Madison, WI.
+
+- **Duong, S.**, Fox, D., <sup>+</sup>Gordner, S., Bachman, H., Votruba-Drzal, E., & Libertus, M. (2021, September). “Coding and analyzing the sequential nature of parent-child interactions during semi-structured play.” [Poster] International Conference on Interactivity, Language, and Cognition: Integrating Quantitative and Qualitative Methods in the Cognitive and Language Sciences, online.
+
+- **Duong, S.**, Bachman, H., Votruba-Drzal, E., & Libertus, M. (2021, March). Parents’ sensitivity to child- level factors and the relation to parental questioning during dyadic interactions. In S. Duong (Chair), *Novel perspectives on the role of adult questions for children’s learning and cognition.* [Symposium]. Society for Research in Child Development Biennial Meeting, online.
+
+- **Duong, S.**, Elliott, L., Bachman, H., Votruba-Drzal, E., & Libertus, M. (2021, March). “Minute-by- minute variations in parental number talk and their implications for coding parent-child
+interactions.” [Poster] Society for Research in Child Development Biennial Meeting, online.
+
+- <sup>+</sup>Kammerzell, J., **Duong, S.**, <sup>+</sup>Heywood, N., <sup>+</sup>Isaacson, M., Libertus, M., Votruba-Drzal, E., & Bachman, H. (2021, March). “Exploring relations between parent and child factors and parental praise in preschool aged-children.” [Poster] Society for Research in Child Development Biennial Meeting, online.
+
+- <sup>+</sup>Sidoti, O. C., **Duong, S.**, Bachman, H., Votruba-Drzal, E., & Libertus, M. (2021, March). “Variations in parental talk about numbers and money during pretend play with 4-year-olds.” [Poster] Society for Research in Child Development Biennial Meeting, online.
+
+- **Duong, S.**, & Libertus, M. (2020, December). “Uncertainty resolution in numerosity comparison: the moderating role of math ability.” [Poster] Society for Judgement and Decision- Making Conference, online.
+
+- **Duong, S.**, Bachman, H., Votruba-Drzal, E., & Libertus, M. (2020, September). “Qualitative differences in parental questioning during dyadic interactions and the relation to 4-year-old children’s math abilities.” [Poster] Interacting Brains: Adult-Child Interactions From Multiple Perspectives Conference, online.
+
+- **Duong, S.**, Bachman, H., Votruba-Drzal, E., & Libertus, M. (2020, June). “’What’s after six?’: Parental math questions relate to 4-year-old children’s math skills.” [Poster] Mathematical Cognition and Learning Society Conference. Cancelled due to COVID-19.
+
+- **Duong, S.**, <sup>+</sup>Pitulski, S., Bachman, H., Votruba-Drzal, E., & Libertus, M. (2019, October). “What’s in a question? Parents’ question use in dyadic interactions and the relation to 4-year-old children’s math abilities.” [Poster] Cognitive Development Society Conference, Louisville, KY.
+
+- **Duong, S.**, & Libertus, M. (2019, June). “Children’s math abilities and the relation to risky decision making: a study proposal.” [Poster] Mathematical Cognition and Learning Society Conference, Ottawa, CA.
+
+- **Duong, S.**, *Pitulski, S., Bachman, H., Votruba-Drzal, E., & Libertus, M. (2019, June). “Measuring the quality of parent child interactions and the relation to preschool-aged children’s math skills.” [Poster] Mathematical Cognition and Learning Society Conference, Ottawa, CA.
+
+- **Duong, S.**, Terrizzi, B.F., Butler, L.P., & Beier, J.S. (2019, March). “Children's prosocial facilitation of others' communicative goals.” [Poster] Society for Research in Child Development, Baltimore, MD.
+
+- **Duong, S**., Cherynak, N., & Beier, J. (2018, June). “Goals or equality: How young children choose between helping and fairness when distributing resources.” [Poster] Society for Philosophy and Psychology Conference, Ann Arbor, MI.
+
+- Terrizzi, B. F., Woodward, A. M., **Duong, S.**, Ventimiglia, J., & Beier, J. S. (2018, June). “Young children negatively evaluate people who do not help, even when helping is challenging.” [Poster] International Congress of Infant Studies Conference, Philadelphia, PA.
+
+- Kottegoda, Y., Mastropietro, A., & **Duong, S.** (2017, November). “Characteristics of modulo one
+sequences.” [Talk] Mathematical Association of America Northeast Section Meeting, Fairfield, CT.
+
+- **Duong, S.**, McGrady, P. (2017, April). “The effects of school racial composition on racial bias in children.” [Poster] Northeast Regional Honors Conference, Pittsburgh, PA.
+
+- Ahl, R.E., **Duong, S.**, & Dunham, Y. (2017, January). “Young children use information about affluence to predict others’giving.” [Poster] Society for Personality and Social Psychology Convention, San Antonio, TX.
+
+- Ramesh, S., **Duong, S.**, Charania, F., Dina, B. (2016, November). “Some properties of the wronskian.” [Talk] Mathematical Association of America Northeast Section Meeting, Hartford, CT. 
+
+<br>
+
+## Invited and local presentations
+
+Most of these presentations were completed at my (under)graduate institutions.
+
+- **Duong, S.** (2022, March). “Parent-child interactions, questions, and math (sort of).” Invited talk presented at the Social Learning Laboratory (PI: Kathleen Corriveau) at Boston University, online.
+
+- **Duong, S.**, & Libertus, M. (2022, November). “Quantifying dynamic structures in social interactions: Caregiver-child number talk as a case study.” University of Pittsburgh Cognitive Psychology Talk Series, online.
+
+- **Duong, S.**, & Libertus, M. (2021, November). “Profiles of parent interaction styles during math conversations with their children.” University of Pittsburgh Cognitive Psychology Talk Series, online.
+
+- **Duong, S.**, & Libertus, M. (2020, November/December). “Exploring relations between approximate number processing skills, eye movements, and math ability.” Carnegie Mellon University, Center for the Neural Basis of Cognition Brain Bag Series and at the University of Pittsburgh Cognitive Psychology Talk Series, online.
+
+- **Duong, S.**, & Libertus, M. (2020, November). “Exploring relations between approximate number system acuity, eye movements, and math ability.” University of Pittsburgh Cognitive Psychology Talk Series, online.
+
+- **Duong, S.**, Bachman, H., Votruba-Drzal, E., & Libertus, M. (2020, March). “What’s in a question?
+Parents’ question use in dyadic interactions and the relation to preschool-aged children’s math abilities.” [Poster] Graduate Student Exposition at the University of Pittsburgh. Cancelled due to COVID-19.
+
+- **Duong, S.**, & Libertus, M. (2019, September). “Children’s math abilities and the relation to risky decision making.” University of Pittsburgh Cognitive Psychology Talk Series, Pittsburgh, PA.
+
+- **Duong, S.**, & Libertus, M. (2019, April). “Exploring the complexity of parents’ questioning in parent- child interactions and the relation to children’s math skills.” University of Pittsburgh Cognitive Psychology Talk Series, Pittsburgh, PA.
+
+- <sup>+</sup>Hofman, S., **Duong, S.**, Libertus, M. (2019, April). “Parental praise and its relation to children’s math skills.” [Poster] University of Pittsburgh Psychology Department Student Research Poster Session, Pittsburgh, PA.
+
+- <sup>+</sup>Pitulski, S., **Duong, S.**, Libertus, M. (2019, April). “Question complexity in parent-child interactions and the relation to children’s math abilities.” [Poster] University of Pittsburgh Psychology Department Student Research Poster Session, Pittsburgh, PA.
+
+- **Duong, S.**, & Libertus, M. (2019, March). “Exploring the complexity of parents’ questioning in parent child interactions and the relation to children’s math skills.” University of Pittsburgh Council for Graduate Students in Education Conference, Pittsburgh, PA.
+
+- Kottegoda, Y., Mastropietro, A., & **Duong, S.** (2018, April). “Characteristics of modulo one sequences.” [Poster] Southern Connecticut State University Spuyten Duyvil Undergraduate Mathematics Conference, New Haven, CT.
+
 
 :::

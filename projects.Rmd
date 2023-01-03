@@ -28,6 +28,10 @@ aniview::use_aniview() # animate presence of content
 
 ::: {.aniview data-av-animation="fadeInUp"}
 
+
+> The gist: A versatile data **analyst**, **visualizer**, and **storyteller**.
+
+
 * [Dynamic structures of social interactions](#dynamic-structures-of-social-interactions)
 * [Profiles of home learning environments](#profiles-of-home-learning-environments)
 * [Hot dasher summer](#hot-dasher-summer)
@@ -35,8 +39,6 @@ aniview::use_aniview() # animate presence of content
 * [EDA city over here](#eda-city-over-here)
 * [High cognitive demand questions](#high-cognitive-demand-questions)
 
-
-> The gist: A versatile data **analyst**, **visualizer**, and **storyteller**.
 
 <!-- <br> -->
 

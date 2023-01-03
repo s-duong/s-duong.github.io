@@ -18,8 +18,6 @@ aniview::use_aniview() # animate presence of content
 
 ::: {.aniview data-av-animation="fadeInUp"}
 
-<font color="#8c7edc"><b>I have published in academic journals (areas: psychology, education, mathematics), presented at numerous local, national, and international meetings, and collaborated with several researchers within and beyond my current institution.</b></font> 
-
 **NOTE**: This is the *Publications* section of my CV, so it is quite long!
 
 > The gist: A productive scholar and collaborator with **9** peer-reviewed journal articles, **1** book chapter, **3** first-author papers under review, and **3** talks and **20+** poster presentations at (inter)national conferences.

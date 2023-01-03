@@ -39,7 +39,7 @@ Hi, there! 👩🏻‍💻👋🏼
 
 <p class="intro"> 
 
-I'm **Shirley Duong**, a <font color = "#8c7edc">**data**</font> enthusiast, early learning <font color = "#8c7edc">**researcher**</font>, and hobby <font color = "#8c7edc">**artist**</font>.
+I'm <b>Shirley Duong</b> a <font color = "#8c7edc"><b>data</b></font> enthusiast, early learning <font color = "#8c7edc"><b>researcher</b></font>, and hobby <font color = "#8c7edc"><b>artist</b></font>.
 </p>
 
 :::
@@ -52,7 +52,7 @@ Currently, I am a...
 
 - 📊📈 <b>Data analyst</b> at <a href=https://tryingtogether.org/>Trying Together</a>, a non-profit supporting the work of early childcare and education
 
-- 💻📚 <b>PhD candidate</b> in <font color = "#8c7edc">**Cognitive Psychology**</font> working with <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa Libertus</a> at the University of Pittsburgh
+- 💻📚 <b>PhD candidate</b> in <font color = "#8c7edc"><b>Cognitive Psychology</b></font> working with <a href=https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530>Melissa Libertus</a> at the University of Pittsburgh
 
 - 🧵🧩 <b>Serial hobbyist</b> primarily making [pie art](https://s-duong.github.io/art.html) 🥧 at the moment
 

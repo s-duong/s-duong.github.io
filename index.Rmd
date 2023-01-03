@@ -10,7 +10,8 @@ output:
 ---
 
 ```{r, echo=FALSE}
-aniview::use_aniview() # animate presence of content
+# animate presence of content
+aniview::use_aniview()
 ```
 
 ```{css, echo=FALSE}
@@ -50,8 +51,11 @@ Hi, there! 👋🏼
 :::
 
 
+::: {.aniview data-av-animation="fadeInRight"}
+
 <img src="files/headshot_moretape.png" style="float: right;">
 
+:::
 
 <br>
 

@@ -87,7 +87,7 @@ View a full list of my projects on the <a href=publications.html>Scientific Comm
 <!-- </details> -->
 
 
-This project showcased a **computationally-inexpensive way** to uncover additional insights in existing transcription data for the purposes of (1) **enhancing scientific knowledge** on language and learning, (2) **optimizing data reuse** within the <a target="_blank" rel="noopener noreferrer" href="https://lrdc.pitt.edu/ppel/">Parents Promoting Early Learning Study</a>, and (3) **sharing this method** with researchers.
+This project showcased a **computationally-inexpensive way** to uncover additional insights in existing transcription data for the purposes of (1) **enhancing scientific knowledge** on language and learning, (2) **optimizing data reuse**, and (3) **sharing this method** with researchers.
 
 :::
 

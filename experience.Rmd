@@ -58,7 +58,7 @@ For more details, see below or download my: <br><br>
 
 <font color="#8c7edc"><b>I seek out and engage in a variety of data, research, and management practices. This role is where I (primarily) acquired my love for and skills in data science!</b></font> View my <a href=projects.html>Projects</a> and <a href=publications.html>Scientific Communications</a> for more info.
 
-- 👋🏼 Direct 5 projects resulting in 9 peer-reviewed journal articles, 1 book chapter, 3 first-author papers under review, and 3 talks and 20 poster presentations at (inter)national conferences primarily with the <a target="_blank" rel="noopener noreferrer" href="https://lrdc.pitt.edu/ppel/">Parents Promoting Early Learning Study</a> on:
+- 👋🏼 Direct 5 projects resulting in 9 peer-reviewed journal articles, 1 book chapter, 3 first-author papers under review, and 3 talks and 20 poster presentations at (inter)national conferences primarily on:
   + Links between children's math experiences in the home learning environment (HLE) and their emerging math skills.
   + Innovative methods (i.e., behavioral coding and statistical modeling) for the measurement of the HLE to optimize data (re)use and reduce data collection and coding costs
 - 🔢 Develop, implement, and train 20+ research assistants on transcription coding schemes to capture the temporal sequence and qualitative features of conversations (e.g., types of questions and feedback, talk about math and spatial concepts) 

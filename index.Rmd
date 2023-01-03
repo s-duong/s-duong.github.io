@@ -1,6 +1,12 @@
 ---
 title: 
-output: html_document
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: false
+    classoption:
+    - twocolumn
 ---
 
 ```{r, echo=FALSE}
@@ -16,31 +22,48 @@ use em units to allow viewers to resize the text; 1 em = 16 px */
 .intro {
   font-size: 3.25em;
 }
+
+/* for responsive image sizing */
+.responsive {
+  width: 100%;
+  height: auto;
+}
 ```
 
 <!-- for accessing the link icons --> 
 <script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script> 
 
 
-
 <br>
+
+
+
+<!-- <img src="files/headshot_rectangle.jpeg" style="float:right;"> -->
 
 ::: {.aniview data-av-animation="fadeInLeft"}
 
-<p class="hi"> 
-Hi, there! 👩🏻‍💻👋🏼 
+
+<p class="hi">
+Hi, there! 👋🏼
 </p>
 
 :::
 
+
+<img src="files/headshot_moretape.png" style="float: right;">
+
+
 <br>
+
+
 
 ::: {.aniview data-av-animation="fadeInRight"}
 
-<p class="intro"> 
 
-I'm <b>Shirley Duong</b> a <font color = "#8c7edc"><b>data</b></font> enthusiast, early learning <font color = "#8c7edc"><b>researcher</b></font>, and hobby <font color = "#8c7edc"><b>artist</b></font>.
+<p class="intro"> 
+I'm <b>Shirley Duong</b>, a <font color = "#8c7edc"><b>data</b></font> enthusiast, early learning <font color = "#8c7edc"><b>researcher</b></font>, and hobby <font color = "#8c7edc"><b>artist</b></font>.
 </p>
+
 
 :::
 
@@ -61,3 +84,5 @@ Currently, I am a...
 <a target="_blank" rel="noopener noreferrer" href = "files/ShirleyDuongResume.pdf"><button type="button" class="btn btn-success">Download my resume</button></a> <a target="_blank" rel="noopener noreferrer" href="mailto:shirleyduong5@gmail.com"><button type="button" class="btn btn-success">Get in touch</button></a>
 
 :::
+
+

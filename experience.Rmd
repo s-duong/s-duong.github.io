@@ -17,7 +17,7 @@ aniview::use_aniview() # animate presence of content
 ::: {.aniview data-av-animation="fadeInUp"}
 
 
-> The gist: A curious and adaptable gal with **7+** years of **diverse research**, **data**, and **management** experiences in  academia, and more recently, the non-profit and corporate sectors.  <br><br> My academic research has focused primarily on applying **new coding and modeling techniques** to studying **conversations** and I aim to **expand my career in industry**. 
+> The gist: A curious and adaptable gal with **7+** years of **diverse research**, **data**, and **management** experiences in  academia, and more recently, the non-profit and corporate sectors.  <br><br> My academic research has focused primarily on applying **new coding and modeling techniques** to studying **conversations** for **early learning** and I aim to **expand my career in industry**. 
 
 
 For more details, see below or download my: <br><br>

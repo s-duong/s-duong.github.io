@@ -58,7 +58,7 @@ For more details, see below or download my: <br><br>
 
 <h3> Graduate Researcher  @ the <a target="_blank" rel="noopener noreferrer" href="https://www.lrdc.pitt.edu/"> Learning Research & Development Center</a> <div style="float: right">Jul 2018-Now</div> </h3> 
 
-<font color="#8c7edc"><b>I seek out and engage in a variety of data, research, and management practices. This role is where I (primarily) acquired my love for and skills in data science!</b></font> View my <a href=projects.html>Projects</a> and <a href=publications.html>Scientific Communications</a> for more info.
+<font color="#8c7edc"><b>I seek out and engage in a variety of data, research, and management practices. This role is where I (primarily) acquired my skills in data science. I find great joy in working with others to solve problems using data!</b></font> View my <a href=projects.html>Projects</a> and <a href=publications.html>Scientific Communications</a> for more info.
 
 - 🏃🏻‍♀️ Lead and collect, process, and manage data for 5 projects on:
   + Innovative methods (transcription coding and statistical modeling) for measuring conversations and learning environments to optimize data (re)use and reduce costs

@@ -51,7 +51,7 @@ Hi, there! 👋🏼
 :::
 
 
-::: {.aniview data-av-animation="fadeInRight"}
+::: {.aniview data-av-animation="fadeIn"}
 
 <img src="files/headshot_moretape.png" style="float: right;">
 

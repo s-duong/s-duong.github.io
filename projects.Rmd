@@ -29,15 +29,15 @@ aniview::use_aniview() # animate presence of content
 ::: {.aniview data-av-animation="fadeInUp"}
 
 
-> The gist: A versatile data **analyst**, **visualizer**, and **storyteller**.
+<!-- > The gist: A versatile data **analyst**, **visualizer**, and **storyteller**. -->
 
 
 * [Dynamic structures of social interactions](#dynamic-structures-of-social-interactions)
 * [Profiles of home learning environments](#profiles-of-home-learning-environments)
 * [Exploration, uncertainty, and numerical judgements](#exploration-uncertainty-and-numerical-judgements)
-* [EDA city over here](#eda-city-over-here)
 * [High cognitive demand questions](#high-cognitive-demand-questions)
 
+<!-- * [EDA city over here](#eda-city-over-here) -->
 
 <!-- <br> -->
 
@@ -63,7 +63,9 @@ View a full list of my projects on the <a href=publications.html>Scientific Comm
 
 <img src="files/Projects_CRQA.png" class="responsive">
 
-<span class="badge bg-primary">R</span> <span class="badge bg-success">event/time series analysis</span> <span class="badge bg-success">recurrence analysis</span> <span class="badge bg-success">inter-rater reliability</span> <span class="badge bg-success">descriptive analysis</span> <span class="badge bg-success">transcription coding</span> <span class="badge bg-primary">ggplot2</span> <span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span> 
+<span class="badge bg-primary">R</span> <span class="badge bg-success">event/time series analysis</span> <span class="badge bg-success">recurrence analysis</span> <span class="badge bg-success">qualitative analysis</span> <span class="badge bg-success">transcription coding</span> <span class="badge bg-primary">ggplot2</span> 
+
+<!-- <span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span>  -->
 
 :::
 
@@ -75,7 +77,7 @@ View a full list of my projects on the <a href=publications.html>Scientific Comm
 
 # Dynamic structures of social interactions
 
-**Tutorial** on a visual and quantitative analysis of dyadic **conversations** using **cross-recurrence quantification analysis (CRQA)**. This work extracts additional measures of interactions beyond frequencies of input (e.g., words, utterances), such as the presence and duration of **reciprocal** exchanges, and compares these various measures. A <font color="#8c7edc"><b>collaboration</b></font> with <a target="_blank" rel="noopener noreferrer" href="https://researchdirectory.uc.edu/p/davtj">Tehran Davis</a> at the University of Cinncinati.  
+<font color="#8c7edc"><b>Tutorial</b></font> on a visual and quantitative analysis of dyadic **conversations** using **cross-recurrence quantification analysis (CRQA)**. This work extracts additional measures of interactions beyond frequencies of input (e.g., words, utterances), such as the presence and duration of **reciprocal** exchanges, and compares these various measures. A <font color="#8c7edc"><b>collaboration</b></font> with <a target="_blank" rel="noopener noreferrer" href="https://researchdirectory.uc.edu/p/davtj">Tehran Davis</a> at the University of Cinncinati.  
 
 [<a target="_blank" rel="noopener noreferrer" href="https://github.com/s-duong/crqa-number-talk">Analysis code + Tutorial</a>] [<a target="_blank" rel="noopener noreferrer" href="files/Duong_CogTalk_Nov22_CRQA_Slides.pdf">Slides for <i>Pitt Cognitive Talk Series</i></a>] [Journal article (under review)]
 
@@ -87,7 +89,7 @@ View a full list of my projects on the <a href=publications.html>Scientific Comm
 <!-- </details> -->
 
 
-This project showcased a **computationally-inexpensive way** to uncover additional insights in existing transcription data for the purposes of (1) **enhancing scientific knowledge** on language and learning, (2) **optimizing data reuse**, and (3) **sharing this method** with researchers.
+This project showcased a computationally-inexpensive way to uncover additional insights in existing transcription data for the purposes of (1) enhancing scientific knowledge on language and learning, (2) optimizing data reuse, and (3) sharing this method with researchers.
 
 :::
 
@@ -122,7 +124,9 @@ This project <font color="#8c7edc">extends my previous work</font>, a cluster an
 
 <img src="files/Projects_Clusters.png" class="responsive">
 
-<span class="badge bg-primary">R</span> <span class="badge bg-success"><i>k</i>-means cluster analysis</span> <span class="badge bg-success">hierarchical cluster analysis</span> <span class="badge bg-success">multinomial logistic regression</span> <span class="badge bg-success">inter-rater reliability</span> <span class="badge bg-success">descriptive analysis</span> <span class="badge bg-success">transcription coding</span> <span class="badge bg-primary">ggplot2</span> <span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span> 
+<span class="badge bg-primary">R</span> <span class="badge bg-success"><i>k</i>-means cluster analysis</span> <span class="badge bg-success">hierarchical cluster analysis</span> <span class="badge bg-success">multinomial logistic regression</span> <span class="badge bg-success">descriptive analysis</span> <span class="badge bg-success">transcription coding</span> <span class="badge bg-primary">ggplot2</span> 
+
+<!-- <span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span>  -->
 
 :::
 ::::::::::::::
@@ -150,7 +154,7 @@ This project <font color="#8c7edc">extends my previous work</font>, a cluster an
 
 <img src="files/Projects_ET.png" class="responsive">
 
-<span class="badge bg-primary">R</span> <span class="badge bg-primary">ggplot2</span> <span class="badge bg-primary">Python</span> <span class="badge bg-primary">NumPy</span> <span class="badge bg-primary">pandas</span> <span class="badge bg-primary">SciPy</span> <span class="badge bg-primary">Seaborn</span> <span class="badge bg-primary">MATLAB</span> <span class="badge bg-success">mixed effects logistic regression</span> <span class="badge bg-success">exploration simulations</span>
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">ggplot2</span> <span class="badge bg-primary">Python</span> <span class="badge bg-primary">NumPy</span> <span class="badge bg-primary">pandas</span> <span class="badge bg-primary">SciPy</span> <span class="badge bg-primary">Seaborn</span> <span class="badge bg-primary">MATLAB</span> <span class="badge bg-success">mixed effects logistic regression</span> 
 
 :::
 
@@ -172,34 +176,34 @@ An **eye-tracking** study of **exploratory behavior**, i.e., eye switching frequ
 
 
 
----
+<!-- --- -->
 
 
-:::::::::::::: {.columns}
-::: {.column width="55%"}
+<!-- :::::::::::::: {.columns} -->
+<!-- ::: {.column width="55%"} -->
 
-# EDA city over here
+<!-- # EDA city over here -->
 
-I have conducted exploratory data analysis in many courses. Below are 3 of my favorite recent EDA reports. I had the most fun working on them for various reasons (e.g., I got to choose a personally interesting dataset, I was learning something new and exciting). 
+<!-- I have conducted exploratory data analysis in many courses. Below are 3 of my favorite recent EDA reports. I had the most fun working on them for various reasons (e.g., I got to choose a personally interesting dataset, I was learning something new and exciting).  -->
 
-- Text sentiment-derived features from sales representatives’ reports of customer interactions [<a target="_blank" rel="noopener noreferrer" href="files/Duong_Shirley_Final_01_Data_Exploration.html">HTML of R Markdown</a>]
-- <a target="_blank" rel="noopener noreferrer" href="https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-07-30">Video games dataset</a> from TidyTuesday [<a target="_blank" rel="noopener noreferrer" href="files/Duong_Shirley_Midterm_df2.html">HTML of R Markdown</a>]
-- Mysterious dataset provided by the instructor, a chance to use the **Seaborn** library (since I prefer ggplot2 🙂) [<a target="_blank" rel="noopener noreferrer" href="files/Duong_Shirley_Midterm_df1_python.html">HTML of Juypter Notebook</a>]
+<!-- - Text sentiment-derived features from sales representatives’ reports of customer interactions [<a target="_blank" rel="noopener noreferrer" href="files/Duong_Shirley_Final_01_Data_Exploration.html">HTML of R Markdown</a>] -->
+<!-- - <a target="_blank" rel="noopener noreferrer" href="https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-07-30">Video games dataset</a> from TidyTuesday [<a target="_blank" rel="noopener noreferrer" href="files/Duong_Shirley_Midterm_df2.html">HTML of R Markdown</a>] -->
+<!-- - Mysterious dataset provided by the instructor, a chance to use the **Seaborn** library (since I prefer ggplot2 🙂) [<a target="_blank" rel="noopener noreferrer" href="files/Duong_Shirley_Midterm_df1_python.html">HTML of Juypter Notebook</a>] -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="5%"}
-:::
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
 
-::: {.column width="40%"}
+<!-- ::: {.column width="40%"} -->
 
-<img src="files/Projects_EDAcity.png" class="responsive">
+<!-- <img src="files/Projects_EDAcity.png" class="responsive"> -->
 
-<span class="badge bg-primary">R</span> <span class="badge bg-primary">ggplot2</span> <span class="badge bg-primary">Python</span> <span class="badge bg-primary">Seaborn</span>
+<!-- <span class="badge bg-primary">R</span> <span class="badge bg-primary">ggplot2</span> <span class="badge bg-primary">Python</span> <span class="badge bg-primary">Seaborn</span> -->
 
-:::
+<!-- ::: -->
 
-::::::::::::::
+<!-- :::::::::::::: -->
 
 
 ---
@@ -211,7 +215,9 @@ A multi-study project with 2 aims:
 - Explore **links** between children's exposure to caregivers' high (vs. low-) cognitive demand (CD) **questions** in the home learning environment and children's **early academic skills**. [<a target="_blank" rel="noopener noreferrer" href="files/DuongEtAl-2021_JECP.pdf">Paper in <i>Journal of Experimental Child Psychology</i></a>] 
 - Investigate caregiver and child **factors** that **predict high-CD questioning**. [Journal article (under review)]
 
-<span class="badge bg-primary">R</span> <span class="badge bg-primary">Stata</span> <span class="badge bg-success">linear regression</span> <span class="badge bg-success">mixed effects logistic regression</span> <span class="badge bg-success">inter-rater reliability</span> <span class="badge bg-success">power analysis</span> <span class="badge bg-success">transcription coding</span> <span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span> 
+<span class="badge bg-primary">R</span> <span class="badge bg-primary">Stata</span> <span class="badge bg-success">linear regression</span> <span class="badge bg-success">mixed effects logistic regression</span> <span class="badge bg-success">power analysis</span> <span class="badge bg-success">transcription coding</span> 
+
+<!-- <span class="badge bg-secondary">Qualtrics</span> <span class="badge bg-secondary">Datavyu</span>  -->
 
 
 <!-- [<a target="_blank" rel="noopener noreferrer" href="">Analysis code</a>]  -->

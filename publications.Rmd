@@ -20,7 +20,7 @@ aniview::use_aniview() # animate presence of content
 
 **NOTE**: This is the *Publications* section of my CV, so it is quite long!
 
-> The gist: A **productive scholar** and **collaborator** with **9** peer-reviewed journal articles, **1** book chapter, **3** first-author papers under review, and **3** talks and **20+** poster presentations at (inter)national conferences.
+<!-- > The gist: A **productive scholar** and **collaborator** with **9** peer-reviewed journal articles, **1** book chapter, **3** first-author papers under review, and **3** talks and **20+** poster presentations at (inter)national conferences. -->
 
 Feel free to browse these publications and <a target="_blank" rel="noopener noreferrer" href="mailto:shirleyduong5@gmail.com">email me</a> if you'd like to discuss or see a copy of anything below.  
 

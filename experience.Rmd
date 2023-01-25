@@ -17,7 +17,7 @@ aniview::use_aniview() # animate presence of content
 ::: {.aniview data-av-animation="fadeInUp"}
 
 
-> The gist: A curious and adaptable gal with **7+** years of **diverse research**, **data**, and **management** experiences in  academia, and more recently, the non-profit sector. <br><br> My academic research has focused primarily on applying **new coding and modeling techniques** to studying **conversations** for **early learning** and I aim to **expand my career in industry**. 
+<!-- > The gist: **7+** years of **diverse research**, **data**, and **management** experiences in  academia, and more recently, with a non-profit. <br><br> My research has focused primarily on applying **new coding and modeling techniques** to studying **conversations** for **early learning**.  -->
 
 
 For more details, see below or download my: <br><br>
@@ -52,7 +52,7 @@ For more details, see below or download my: <br><br>
 - 📊 Translate and present findings via brief research reports and data visualization dashboards to track and support the organization's strategies and goals
 
 
-<span class="badge bg-primary">R</span> <span class="badge bg-primary">Tableau</span> <span class="badge bg-primary">Google Looker Studio</span> <span class="badge bg-primary">ArcGIS</span> <span class="badge bg-primary">Qualtrics</span> 
+<!-- <span class="badge bg-primary">R</span> <span class="badge bg-primary">Tableau</span> <span class="badge bg-primary">Google Looker Studio</span> <span class="badge bg-primary">ArcGIS</span> <span class="badge bg-primary">Qualtrics</span>  -->
 
 <br>
 
@@ -70,7 +70,7 @@ For more details, see below or download my: <br><br>
 -	👋🏼 <b>Research impact</b>: 9 peer-reviewed journal articles, 1 book chapter, 3 first-author papers under review, and 3 talks and 20 poster presentations at (inter)national conferences
 
 
-<span class="badge bg-primary">R</span> <span class="badge bg-primary">Stata</span> <span class="badge bg-primary">Qualtrics</span> <span class="badge bg-primary">Datavyu</span> <span class="badge bg-primary">PsychoPy</span>
+<!-- <span class="badge bg-primary">R</span> <span class="badge bg-primary">Stata</span> <span class="badge bg-primary">Qualtrics</span> <span class="badge bg-primary">Datavyu</span> <span class="badge bg-primary">PsychoPy</span> -->
 
 <br>
 
@@ -84,7 +84,7 @@ For more details, see below or download my: <br><br>
 - ✅ Conducted reliability analyses of behavioral coding schemes for a music intervention study
 
 
-<span class="badge bg-primary">R</span> <span class="badge bg-primary">Python</span> <span class="badge bg-primary">Javascript</span> <span class="badge bg-primary">PsychoPy</span> <span class="badge bg-primary">Nvivo</span>
+<!-- <span class="badge bg-primary">R</span> <span class="badge bg-primary">Python</span> <span class="badge bg-primary">Javascript</span> <span class="badge bg-primary">PsychoPy</span> <span class="badge bg-primary">Nvivo</span> -->
 
 <br>
 

@@ -49,7 +49,7 @@ For more details, see below or download my: <br><br>
 
 - 📝 Design community and organizational surveys surrounding the early childcare workforce and climate, early childhood initiatives and programs, and professional development to inform operational, collaborator, and stakeholder needs
 - 🧹 Execute cleaning, merging, and pre-processing of data from several sources (e.g., government records, US Census data, geographic data) for qualitative and quantitative analysis
-- 📊 Translate and present findings via brief research reports and data visualization dashboards to track and support the organization's strategies and goals
+- 📊 Translate and present findings via brief research reports and data visualization dashboards to track and support the organization's strategies, goals, and grant applications
 
 
 <!-- <span class="badge bg-primary">R</span> <span class="badge bg-primary">Tableau</span> <span class="badge bg-primary">Google Looker Studio</span> <span class="badge bg-primary">ArcGIS</span> <span class="badge bg-primary">Qualtrics</span>  -->
@@ -61,7 +61,7 @@ For more details, see below or download my: <br><br>
 <font color="#8c7edc"><b>I seek out and engage in a variety of data, research, and management practices. This role is where I (primarily) acquired my skills in data science. I find great joy in working with others to solve problems using data!</b></font> View my <a href=projects.html>Projects</a> and <a href=publications.html>Scientific Communications</a> for more info.
 
 - 🏃🏻‍♀️ Lead and collect, process, and manage data for 5 projects on:
-  + Innovative methods (transcription coding and statistical modeling) for measuring conversations and learning environments to optimize data (re)use and reduce costs
+  + Innovative methods (transcription coding and statistical modeling) for measuring conversations and learning environments
   + Links between children's learning environments and their emerging academic skills
 - 🔢 Develop, implement, and train 20+ research assistants on transcription coding schemes to capture the temporal sequence and qualitative features of conversations (e.g., types of questions and feedback, talk about math concepts) 
 - 👩🏻‍💻 Execute inferential data analysis of text, observational, assessment, interview, and survey data (e.g., modeling dynamic structures of interactions using recurrence quantification analysis; see <a href=Projects.html>Projects</a>)

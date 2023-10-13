@@ -31,7 +31,7 @@ aniview::use_aniview() # animate presence of content
 
 <!-- > The gist: A versatile data **analyst**, **visualizer**, and **storyteller**. -->
 
-
+* Automatic classification of number talk (coming soon)
 * [Dynamic structures of social interactions](#dynamic-structures-of-social-interactions)
 * [Profiles of home learning environments](#profiles-of-home-learning-environments)
 * [Exploration, uncertainty, and numerical judgements](#exploration-uncertainty-and-numerical-judgements)

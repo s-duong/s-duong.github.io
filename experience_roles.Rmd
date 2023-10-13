@@ -1,0 +1,130 @@
+---
+title: Professional and academic roles
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    toc: false
+---
+
+```{r, echo=FALSE}
+aniview::use_aniview() # animate presence of content
+```
+
+<!-- for accessing the link icons -->
+
+```{=html}
+<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script>
+```
+::: {.aniview data-av-animation="fadeInUp"}
+<!-- > The gist: **7+** years of **diverse research**, **data**, and **management** experiences in  academia, and more recently, with a non-profit. <br><br> My research has focused primarily on applying **new coding and modeling techniques** to studying **conversations** for **early learning**.  -->
+
+For more details, see below or download my: <br><br> <a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongCV.pdf"><button type="button" class="btn btn-success">CV</button></a> <a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongResume.pdf"><button type="button" class="btn btn-success">Resume</button></a>
+
+<br>
+
+<h1>Education</h1>
+
+<h3>
+
+* Cognitive Psychology, M.S. ('21); Ph.D. (Expected '24) <br> <a target="_blank" rel="noopener noreferrer" href="http://psychology.pitt.edu/">University of Pittsburgh (Pitt)</a>
+
+</h3>
+
+
+<h3>
+
+* Psychology, B.A., Mathematics Minor ('17) <br> <a target="_blank" rel="noopener noreferrer" href="https://www.newhaven.edu/arts-sciences/undergraduate-programs/psychology/index.php">University of New Haven </a>
+
+</h3>
+
+<br>
+
+<h1>Professional Experiences</h1>
+
+<h3>
+
+* Statistician \@ <a target="_blank" rel="noopener noreferrer" href="http://yfrp.pitt.edu/">Pitt, Youth and Family Research Program</a> (Jun'23-Now)
+
+<!-- ::: {style="float: right"} -->
+<!-- Jun 2023-Now -->
+<!-- ::: -->
+
+</h3>
+
+<!-- <font color="#8c7edc"><b>I apply my technical skills in a non-academic setting to support an incredible mission and team! I am also learning and employing new analytics and visualization tools to tell stories with data to a non-academic audience.</b></font> -->
+
+<h3>
+
+* Data Analyst \@ <a target="_blank" rel="noopener noreferrer" href="https://tryingtogether.org/">Trying Together</a> (Sep'22-Now)
+
+<!-- ::: {style="float: right"} -->
+<!-- Sept 2022-Now -->
+<!-- ::: -->
+
+</h3>
+
+<!-- <font color="#8c7edc"><b>I apply my technical skills in a non-academic setting to support my local community and our mission of elevating the early child care workforce! This includes learning and applying new analytics and visualization tools to tell stories with data to a non-academic audience.</b></font> -->
+
+
+
+
+<h3>
+
+* Graduate Researcher \@ the <a target="_blank" rel="noopener noreferrer" href="https://www.lrdc.pitt.edu/"> Learning Research & Development Center</a> (Jul'18-Now)
+
+<!-- ::: {style="float: right"} -->
+<!-- Jul 2018-Now -->
+<!-- ::: -->
+
+</h3>
+
+<!-- <font color="#8c7edc"><b>I seek out and engage in a variety of data, research, and management practices. This role is where I (primarily) acquired my skills in data science. I find great joy in working with others to solve problems using data!</b></font> View my <a href=projects.html>Projects</a> and <a href=publications.html>Scientific Communications</a> for more info. -->
+
+
+<!-- Research interests: -->
+<!-- -   Innovative, efficient, and reliable methods (e.g., automatic classification of math talk) for measuring conversations and learning environments -->
+<!-- -   Links between children's learning environments and their emerging academic skills -->
+
+
+
+
+<h3>
+
+* Statistical and Programming Consultant (Dec'21-Now)
+
+<!-- ::: {style="float: right"} -->
+<!-- Dec 2021-Now -->
+<!-- ::: -->
+
+</h3>
+
+<!-- <font color="#8c7edc"><b>I support academic and industry projects in a diversity of areas and engage in scientific communication to a broader audience.</b></font> -->
+
+
+
+
+<h3>
+
+* Psychology Course Instructor \@ the <a target="_blank" rel="noopener noreferrer" href="http://psychology.pitt.edu/">University of Pittsburgh</a> (Aug'21-May'22)
+
+<!-- ::: {style="float: right"} -->
+<!-- Aug 2021-May 2022 -->
+<!-- ::: -->
+
+</h3>
+
+<!-- Lab courses (\~30 students): Research Methods, Cognitive Psychology -->
+
+
+<br>
+
+<h1>Prior to graduate school, I...</h1>
+
+<!-- Lol it seems like I like switching between HTML and markdown... -->
+
+-   Managed the <a target="_blank" rel="noopener noreferrer" href="http://socialkidslab.umd.edu/">Lab for Early Social Cognition</a> at the University of Maryland, College Park, under Jonathan Beier
+-   Conducted research at the <a target="_blank" rel="noopener noreferrer" href="http://www.socialcogdev.com/">Social Cognitive Development Lab</a> directed by Yarrow Dunham at Yale University and under the mentorship of Richard Ahl
+-   Conducted research in the Math Department at the University of New Haven with <a target="_blank" rel="noopener noreferrer" href="https://www.newhaven.edu/faculty-staff-profiles/yasanthi-kottegoda.php">Yasanthi Kottegoda</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.newhaven.edu/faculty-staff-profiles/ramesh-sharma.php">Ramesh Sharma </a>
+-   Tutored math and instructed marching band and colorguard at various institutions
+:::

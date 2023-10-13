@@ -1,52 +1,27 @@
----
-title: Professional and academic timeline
-output:  
-  html_document:  
-    self_contained: no  
-    theme: flatly
-    toc: false
----
-
-```{r, include=FALSE}
-aniview::use_aniview() # animate presence of content
-
-# libraries
-#library(devtools)
+# All packages used below must be installed first
+library(devtools)
 #devtools::install_github("laresbernardo/lares")
 library(lares)
 library(ggplot2)
-```
-
-<!-- for accessing the link icons -->
-
-```{=html}
-<script src="https://kit.fontawesome.com/455169677b.js" crossorigin="anonymous"></script>
-```
-
-::: {.aniview data-av-animation="fadeInUp"}
-<!-- > The gist: **7+** years of **diverse research**, **data**, and **management** experiences in  academia, and more recently, with a non-profit. <br><br> My research has focused primarily on applying **new coding and modeling techniques** to studying **conversations** for **early learning**.  -->
-
-For more details, see below or download my: <br><br> <a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongCV.pdf"><button type="button" class="btn btn-success">CV</button></a> <a target="_blank" rel="noopener noreferrer" href="files/ShirleyDuongResume.pdf"><button type="button" class="btn btn-success">Resume</button></a>
 
 
-```{r, echo=FALSE, width="200%"}
 today <- as.character(Sys.Date())
 
 
 ### Edit from here ###
 cv <- data.frame(rbind(
-  c("PhD in Cognitive Psych", "University of Pittsburgh", "Education", "2018-08-01", today),
-  c("MSc in Cognitive Psych", "University of Pittsburgh", "Education", "2018-08-01", "2021-05-31"),
-  c("BA in Psych", "University of New Haven", "Education", "2013-08-01", "2017-05-31"),
-  c("Dissertation Fellow", "NAFSCE", "Fellowships", "2023-06-01", today),
+  c("PhD in Cognitive Psychology", "University of Pittsburgh", "Education", "2018-08-01", today),
+  c("MSc in Cognitive Psychology", "University of Pittsburgh", "Education", "2018-08-01", "2021-05-31"),
+  c("BA in Psychology", "University of New Haven", "Education", "2013-08-01", "2017-05-31"),
+  c("Family Math Researchers Dissertation Fellow", "Center for Family Math", "Fellowships", "2023-06-01", today),
   c("Graduate Research Fellow", "National Science Foundation", "Fellowships", "2019-08-01", "2023-08-31"),
   c("Statistician", "UPMC YFRP", "Work Experience", "2023-06-01", today),
   c("Data Analyst", "Trying Together", "Work Experience", "2022-09-01", today),
-  c("Stat/Programming Consultant", "Various", "Work Experience", "2021-12-01", today),
-  c("Micro-Intern in Higher Edu", "UCTL", "Work Experience", "2023-06-01", "2023-08-15"),
+  c("Statistics and Programming Consultant", "Various", "Work Experience", "2021-12-01", today),
+  c("Micro-Intern in Higher Education", "UCTL", "Work Experience", "2023-06-01", "2023-08-15"),
   c("Lab Manager", "University of Maryland, Lab for Early Social Cognition", "Work Experience", "2017-06-01", "2018-06-30"),
-  c("Psych Research Assistant (RA)", "Yale University, Social Cognitive Development Lab", "Work Experience", "2015-09-01", "2017-05-30"),
-  c("Mathematics RA", "University of New Haven, Math Department", "Work Experience", "2015-05-01", "2017-05-30")
+  c("Research Assistant (Psychology)", "Yale University, Social Cognitive Development Lab", "Work Experience", "2015-09-01", "2017-05-30"),
+  c("Research Assistant (Math)", "University of New Haven, Math Department.", "Work Experience", "2015-05-01", "2017-05-30")
   # c("Extra1", "Place1", "Extra", "2015-05-01", today),
   # c("Extra2", "Place2", "Extra", "2019-01-01", today),
   # c("Extra3", NA, "Extra", "2019-12-01", today)
@@ -59,7 +34,7 @@ colnames(cv) <- order
 
 
 plot_timeline2 <- function(event, start, end = start + 1, label = NA, group = NA,
-                           title = "", subtitle = "",
+                           title = "Curriculum Vitae Timeline", subtitle = "Antoine Soetewey",
                            size = 7, colour = "orange", save = FALSE, subdir = NA) {
   df <- data.frame(
     Role = as.character(event), Place = as.character(label),
@@ -89,8 +64,8 @@ plot_timeline2 <- function(event, start, end = start + 1, label = NA, group = NA
       title = title,
       subtitle = subtitle, x = NULL, y = NULL, colour = NULL
     ) +
-    theme_minimal() +
-    #theme_classic() +
+    #theme_minimal() +
+    theme_classic() +
     #theme_light() +
     #theme_bw() +
     theme(panel.background = element_rect(
@@ -136,10 +111,5 @@ plot_timeline2(
   label = cv$Place,
   group = cv$Type,
   save = FALSE,
-  subtitle = "" # replace with your name
+  subtitle = "Shirley Duong" # replace with your name
 )
-```
-
-<i>Note.</i> Acronyms: NAFSCE = <a href="https://familymath.org/">National Association for Family, School, and Community Engagement's Center for Family Math</a>, UPMC YRFP = University of Pittsburgh Medical Center, <a href="http://yfrp.pitt.edu/">Youth and Family Research Program</a>, UCTL = University of Pittsburgh, <a href="https://teaching.pitt.edu/">University Center for Teaching and Learning</a>. Code credit for this timeline: Antoine Soetewey in <a href="https://statsandr.com/blog/how-to-create-a-timeline-of-your-cv-in-r/">this blog post</a>.
-
-:::
